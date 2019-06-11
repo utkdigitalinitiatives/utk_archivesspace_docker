@@ -1,0 +1,12 @@
+version: '3.4'
+services:
+  archivesspace:
+    build:
+      context: ./archivesspace
+      args:
+        BRANCH: $BRANCH
+    ports:
+      - 8080:8080
+      - 8081:8081
+      - 8089:8089
+      - 8090:8090
