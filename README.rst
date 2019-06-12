@@ -10,6 +10,8 @@ Interfaces
 ----------------
 
 `Public Interface <http://0.0.0.0:8081/>`_
+
 `Staff Interface <http://0.0.0.0:8080/>`_
+
 `Solr <http://0.0.0.0:8090/>`_
 
