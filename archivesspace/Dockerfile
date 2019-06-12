@@ -4,8 +4,14 @@ ARG BRANCH=master
 RUN apk update && apk add \
     git \
    && echo "Cloning UTK Local" \
-   && git clone --progress https://github.com/utkdigitalinitiatives/utk-archivesspace-local local \
-   && cd local \
-   && git checkout -b build-app origin/$BRANCH
+   && pwd \
+   && git clone --progress https://github.com/utkdigitalinitiatives/utk-archivesspace-local utk \
+   && cd utk \
+   && git checkout -b build-app origin/$BRANCH \
+   && ls /usr/src/app
 
 FROM archivesspace/archivesspace:2.5.2
+WORKDIR /archivesspace
+COPY --from=builder /usr/src/app/utk/ plugins/utk
+COPY ./config/config-defaults.rb config/config.rb
+CMD ["/archivesspace/startup.sh"]
