@@ -96,7 +96,7 @@
 #AppConfig[:locale] = :en
 #
 ## Plug-ins to load. They will load in the order specified
-#AppConfig[:plugins] = ['local',  'lcnaf', 'utk']
+AppConfig[:plugins] = ['local',  'lcnaf', 'utk']
 #
 ## The number of concurrent threads available to run background jobs
 ## Resist the urge to set this to a big number as it will affect performance

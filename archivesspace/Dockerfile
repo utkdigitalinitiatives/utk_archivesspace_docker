@@ -4,11 +4,9 @@ ARG BRANCH=master
 RUN apk update && apk add \
     git \
    && echo "Cloning UTK Local" \
-   && pwd \
    && git clone --progress https://github.com/utkdigitalinitiatives/utk-archivesspace-local utk \
    && cd utk \
-   && git checkout -b build-app origin/$BRANCH \
-   && ls /usr/src/app
+   && git checkout -b build-app origin/$BRANCH
 
 FROM archivesspace/archivesspace:2.5.2
 WORKDIR /archivesspace
