@@ -1,4 +1,5 @@
 version: '3.4'
+
 services:
   archivesspace:
     build:
@@ -10,3 +11,10 @@ services:
       - 8081:8081
       - 8089:8089
       - 8090:8090
+  snake:
+    build:
+      context: ./snake
+    depends_on:
+      - archivesspace
+
+
