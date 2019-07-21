@@ -12,6 +12,7 @@ class ArchiveSpace:
         self.__test_if_service_up()
         self.session = self.__authenticate()
         self.headers = {'X-ArchivesSpace-Session': self.session}
+        self.__test_if_data_exists()
 
     def __authenticate(self):
         r = requests.post(url=f'{self.base_url}:8089/users/{self.username}/login?password={self.password}')
@@ -24,8 +25,27 @@ class ArchiveSpace:
             time.sleep(15)
             return self.__test_if_service_up()
         else:
-            print(r.content)
             return
+
+    def __test_if_repositories_were_created(self):
+        r = requests.get(url=f'{self.base_url}:8089/repositories', headers=self.headers)
+        if len(r.json()) >= 1:
+            print(f"ArchivesSpace has {len(r.json())} repositories.")
+            return
+        else:
+            print(f'ArchivesSpace is still building.  Waiting 15 seconds and recreating.')
+            return self.create_repository()
+
+    def __test_if_data_exists(self):
+        r = requests.get(url=f'{self.base_url}:8089/repositories', headers=self.headers)
+        if len(r.json()) >= 1:
+            print(f"ArchivesSpace has data:")
+            for repo in r.json():
+                print(repo['repo_code'])
+            return
+        else:
+            print("ArchivesSpace has no data.  Building repositories.")
+            return self.create_repository()
 
     def create_repository(self):
         r = requests.post(url=f'{self.base_url}:8089/repositories',
@@ -51,7 +71,7 @@ class ArchiveSpace:
                               }
                           )
                           )
-        print(r.status_code)
+        self.__test_if_repositories_were_created()
         if r.status_code == 400:
             print("Sleeping 10 seconds.")
             time.sleep(10)
@@ -61,5 +81,3 @@ class ArchiveSpace:
 
 if __name__ == "__main__":
     x = ArchiveSpace()
-    x.create_repository()
-
