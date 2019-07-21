@@ -10,6 +10,16 @@ Sets up a basic ArchivesSpace environment and copies in our local plugin for dev
 
 **Note**: This is intended for testing purposes only.
 
+
+----------
+How to use
+----------
+
+
+.. code-block:: console
+
+    $ docker-compose build --no-cache
+
 ----------
 Interfaces
 ----------
