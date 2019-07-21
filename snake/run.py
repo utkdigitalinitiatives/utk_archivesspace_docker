@@ -1,22 +1,34 @@
 import requests
 import json
+import time
 
 
 class ArchiveSpace:
-    def __init__(self, url: str = 'http://172.18.0.1:8089/', user: str = 'admin', password: str = 'admin'):
+    def __init__(self, url: str = 'http://172.18.0.1', user: str = 'admin', password: str = 'admin'):
         self.base_url = url
         self.username = user
         self.password = password
         self.headers = {}
+        self.__test_if_service_up()
         self.session = self.__authenticate()
         self.headers = {'X-ArchivesSpace-Session': self.session}
 
     def __authenticate(self):
-        r = requests.post(url=f'{self.base_url}users/{self.username}/login?password={self.password}')
+        r = requests.post(url=f'{self.base_url}:8089/users/{self.username}/login?password={self.password}')
         return r.json()['session']
 
+    def __test_if_service_up(self):
+        r = requests.get(url=f'{self.base_url}:8080')
+        if r.status_code != 200:
+            print(f'ArchivesSpace is showing {r.status_code}. Waiting 15 seconds to retry service.')
+            time.sleep(15)
+            return self.__test_if_service_up()
+        else:
+            print(r.content)
+            return
+
     def create_repository(self):
-        r = requests.post(url=f'{self.base_url}/repositories',
+        r = requests.post(url=f'{self.base_url}:8089/repositories',
                           headers=self.headers,
                           data=json.dumps(
                               {
@@ -39,6 +51,11 @@ class ArchiveSpace:
                               }
                           )
                           )
+        print(r.status_code)
+        if r.status_code == 400:
+            print("Sleeping 10 seconds.")
+            time.sleep(10)
+            self.create_repository()
         return
 
 
