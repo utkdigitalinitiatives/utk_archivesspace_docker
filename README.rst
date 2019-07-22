@@ -18,7 +18,7 @@ How to use
 
 .. code-block:: console
 
-    $ docker-compose build --no-cache
+    $ docker-compose up --build -d
 
 ----------
 Interfaces
