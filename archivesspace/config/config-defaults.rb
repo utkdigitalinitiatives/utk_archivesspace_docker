@@ -493,10 +493,10 @@ AppConfig[:plugins] = ['local',  'lcnaf', 'utk']
 #AppConfig[:pui_hide][:repositories] = false
 #AppConfig[:pui_hide][:resources] = false
 #AppConfig[:pui_hide][:digital_objects] = false
-#AppConfig[:pui_hide][:accessions] = false
+AppConfig[:pui_hide][:accessions] = true
 #AppConfig[:pui_hide][:subjects] = false
-#AppConfig[:pui_hide][:agents] = false
-#AppConfig[:pui_hide][:classifications] = false
+AppConfig[:pui_hide][:agents] = true
+AppConfig[:pui_hide][:classifications] = true
 #AppConfig[:pui_hide][:search_tab] = false
 ## The following determine globally whether the various "badges" appear on the Repository page
 ## can be overriden at repository level below (e.g.:  AppConfig[:repos][{repo_code}][:hide][:counts] = true
