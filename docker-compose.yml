@@ -16,5 +16,3 @@ services:
       context: ./snake
     depends_on:
       - archivesspace
-
-
