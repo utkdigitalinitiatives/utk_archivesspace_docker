@@ -19,13 +19,17 @@ class ArchiveSpace:
         return r.json()['session']
 
     def __test_if_service_up(self):
-        r = requests.get(url=f'{self.base_url}:8080')
-        if r.status_code != 200:
-            print(f'ArchivesSpace is showing {r.status_code}. Waiting 15 seconds to retry service.')
-            time.sleep(15)
+        try:
+            r = requests.get(url=f'{self.base_url}:8080')
+            if r.status_code != 200:
+                print(f'ArchivesSpace is showing {r.status_code}. Waiting 15 seconds to retry service.')
+                time.sleep(15)
+                return self.__test_if_service_up()
+            else:
+                return
+        except:
+            time.sleep(30)
             return self.__test_if_service_up()
-        else:
-            return
 
     def __test_if_repositories_were_created(self):
         r = requests.get(url=f'{self.base_url}:8089/repositories', headers=self.headers)
