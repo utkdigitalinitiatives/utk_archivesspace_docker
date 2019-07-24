@@ -1,10 +1,12 @@
 import requests
 import json
 import time
+import sys
+from requests.exceptions import ConnectionError
 
 
 class ArchiveSpace:
-    def __init__(self, url: str = 'http://172.18.0.1', user: str = 'admin', password: str = 'admin'):
+    def __init__(self, url: str = 'http://utkarchivesspacedocker_archivesspace_1', user: str = 'admin', password: str = 'admin'):
         self.base_url = url
         self.username = user
         self.password = password
@@ -22,14 +24,20 @@ class ArchiveSpace:
         try:
             r = requests.get(url=f'{self.base_url}:8080')
             if r.status_code != 200:
+                print(r.status_code)
                 print(f'ArchivesSpace is showing {r.status_code}. Waiting 15 seconds to retry service.')
                 time.sleep(15)
                 return self.__test_if_service_up()
             else:
                 return
-        except:
+        except ConnectionError as e:
+            print(e)
             time.sleep(30)
             return self.__test_if_service_up()
+        except:
+            print("Unexpected error:", sys.exc_info()[0])
+            return self.__test_if_service_up()
+
 
     def __test_if_repositories_were_created(self):
         r = requests.get(url=f'{self.base_url}:8089/repositories', headers=self.headers)
@@ -58,7 +66,7 @@ class ArchiveSpace:
                               {
                                   "lock_version": 0,
                                   "repo_code": "UTK",
-                                  "name": "University of Tennessee Libraries, Special Collections",
+                                  "name": "Betsey B. Creekmore Special Collections and University Archives",
                                   "created_by": "admin",
                                   "last_modified_by": "admin",
                                   "create_time": "2018-11-26T20:18:07Z",
@@ -68,7 +76,7 @@ class ArchiveSpace:
                                   "oai_is_disabled": False,
                                   "jsonmodel_type": "repository",
                                   "uri": "/repositories/2",
-                                  "display_string": "University of Tennessee Libraries, Special Collections (UT)",
+                                  "display_string": "Betsey B. Creekmore Special Collections and University Archives",
                                   "agent_representation": {
                                       "ref": "/agents/corporate_entities/1"
                                   }
@@ -84,4 +92,5 @@ class ArchiveSpace:
 
 
 if __name__ == "__main__":
+    print("Starting ArchivesSpace connection.")
     x = ArchiveSpace()
