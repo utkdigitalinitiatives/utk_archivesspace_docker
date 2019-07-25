@@ -3,6 +3,7 @@ import json
 import time
 import sys
 from requests.exceptions import ConnectionError
+import os
 
 
 class ArchiveSpace:
@@ -14,6 +15,7 @@ class ArchiveSpace:
         self.__test_if_service_up()
         self.session = self.__authenticate()
         self.headers = {'X-ArchivesSpace-Session': self.session}
+        self.records = self.add_sample_resources('data')
         self.__test_if_data_exists()
 
     def __authenticate(self):
@@ -57,7 +59,8 @@ class ArchiveSpace:
             return
         else:
             print("ArchivesSpace has no data.  Building repositories.")
-            return self.create_repository()
+            self.create_repository()
+            return
 
     def create_repository(self):
         r = requests.post(url=f'{self.base_url}:8089/repositories',
@@ -88,6 +91,21 @@ class ArchiveSpace:
             print("Sleeping 10 seconds.")
             time.sleep(10)
             self.create_repository()
+        return self.create_records()
+
+    @staticmethod
+    def add_sample_resources(path):
+        for record in os.walk(path):
+            return [file for file in record[2] if file.endswith(".json")]
+
+    def create_records(self):
+        for file in self.records:
+            with open(f'data/{file}', 'r') as record:
+                text = record.read()
+                r = requests.post(url=f'{self.base_url}:8089/repositories/1/resources',
+                                  headers=self.headers,
+                                  data=text)
+                print(f'{r.status_code} for {file}')
         return
 
 
