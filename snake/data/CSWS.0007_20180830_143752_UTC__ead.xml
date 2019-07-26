@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="completed" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>0012_003365_000000_0000</eadid><filedesc><titlestmt><titleproper>Finding Aid for the Lavoy E. Phillips Papers, 1942 Decemer 27-1946 January 6 <num>CSWS.0007</num></titleproper><author>Elizabeth Dunham, June 26, 2006</author></titlestmt><publicationstmt><publisher>University of Tennessee Libraries, Special Collections</publisher><p><date>2006-06-26</date></p><address><addressline>Knoxville</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2018-08-30 10:37:52 -0400</date>.</creation><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>University of Tennessee Libraries, Special Collections</corpname>
+    </repository>
+    <unittitle>Lavoy E. Phillips Papers</unittitle>
+    <origination label="creator">
+      <persname rules="local" source="local">Phillips, Lavoy</persname>
+    </origination>
+    <origination label="source">
+      <corpname source="ingest">University of Tennessee, Knoxville. Center for the Study of War and Society (World War II Collection).</corpname>
+    </origination>
+    <unitid>CSWS.0007</unitid>
+    <unitid audience="internal" identifier="10373" type="Archivists Toolkit Database::RESOURCE">10373</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.3 Linear Feet</extent>
+    </physdesc>
+    <unitdate normal="0/0" type="inclusive">1942 Decemer 27-1946 January 6</unitdate>
+    <abstract id="aspace_ab77a52dcfc263b68b54293b19c00837">This collection contains Lavoy E. Phillips' military records, photographs, and press clippings concerning his service in World War II.</abstract>
+  </did>
+  <acqinfo id="aspace_11dc29a15ad40314758b2b85656c7515">
+    <head>Acquisition Note</head>
+<p>Materials were donated either by the veterans listed in the collection or by their families.</p>  </acqinfo>
+  <bioghist id="aspace_3c406a63967aac743bfdf2fb49186984">
+    <head>Biographical/Historical Note</head>
+<p>Lavoy Phillips was born August 14, 1922 in Adamsville, Tennessee. On April 26, 1942 he was married to Mildred Raleigh Phillips and the following year enlisted in the United States Air Force.  He served 14 months in Guam during World War II as Corporal on the 28th Bomber Squadron. Phillips was awarded the WWII Victory Medal, American Service Medal, Asiatic Pacific Service Medal with two Bronze Stars, and a Good Conduct Medal for his services in the Army Air Force. In 1946, Phillips was honorably discharged. </p><p>In addition to his military service, Phillips earned his Bachelor's at the University of Tennessee, gaining him employment at Commercial Credit and the Federal Deposit Insurance Corp. He retired from FDIC as Bank Examiner. He died June 3, 2008 at the age of 85 in Ocala, Florida</p>  </bioghist>
+  <accessrestrict id="aspace_0a097d0658dce10492513b03f3cd4bc6">
+    <head>Conditions Governing Access</head>
+<p>Manuscript and University Archives collections are stored offsite, and a minimum of 24 hours is needed to retrieve these items for use. Researchers interested in consulting any of the collections are advised to contact Special Collections.</p>  </accessrestrict>
+  <userestrict id="aspace_28f1b30597ffba8c8bb4b274b5b9e462">
+    <head>Conditions Governing Use</head>
+<p>The copyright interests in this collection remain with the creator. For more information, contact the Special Collections Library.</p>  </userestrict>
+  <prefercite id="aspace_10139168a6622a77dd07845ed8468ae3">
+    <head>Preferred Citation</head>
+<p>[Identification of Item], Lavoy E. Phillips Papers, CSWS.0007. University of Tennessee Libraries, Knoxville, Special Collections.</p>  </prefercite>
+  <otherfindaid id="aspace_b7f44058f2c4dc7d2f7f21c64f2306e3">
+    <head>Previous Citation</head>
+<p>This collection was originally listed as part of MS.2012. It was then listed as CSWS.WWII.1.0007 until receiving its current number.</p>  </otherfindaid>
+  <scopecontent id="aspace_53b539b8571f6e11de73402df302086e">
+    <head>Scope and Contents Note</head>
+<p>This collection contains Lavoy E. Phillips military records including a copy of his honorable discharge certificate, photographs during his service in Guam, and press clippings concerning the 50th anniversary of WWII.</p>  </scopecontent>
+  <controlaccess>
+    <subject source="lcsh">World War, 1939-1945 -- Guam.</subject>
+    <geogname source="lcsh">United States. Air Force.</geogname>
+    <subject source="lcsh">World War, 1939-1945 -- Veterans -- United States.</subject>
+    <corpname role="fmo" source="ingest">University of Tennessee, Knoxville. Center for the Study of War and Society (World War II Collection).</corpname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref1_p4r" level="file"><did><unittitle>Military Documents, </unittitle><unitid audience="internal" identifier="338561" type="Archivists Toolkit Database::RESOURCE_COMPONENT">338561</unitid><unitdate>1943 January 6-1946 January 6</unitdate></did><scopecontent id="aspace_5884ab6a72b443fdbe206400e5d1a264"><head>Scope and Contents Note</head><p>Folder contains: Phillips's military papers: Personal Affairs Statement; Enlisted Record; Honorable Discharge; Notice of Classification; and Registration Certificate.</p></scopecontent></c01><c01 id="aspace_ref3_zj9" level="file"><did><unittitle>Photographs, </unittitle><unitid audience="internal" identifier="338562" type="Archivists Toolkit Database::RESOURCE_COMPONENT">338562</unitid><unitdate>circa 1945</unitdate></did><scopecontent id="aspace_f4e08eb04828d477ac4712c0a280e0a1"><head>Scope and Contents Note</head><p>Folder contains: Cpl Lavoy Phillips in Guam.</p></scopecontent></c01><c01 id="aspace_ref4_lhd" level="file"><did><unittitle>Press Clippings, </unittitle><unitid audience="internal" identifier="338563" type="Archivists Toolkit Database::RESOURCE_COMPONENT">338563</unitid><unitdate>1942 Decemer 27, 1945 June 10 and July 1</unitdate></did><scopecontent id="aspace_005df779e094c27406103297dca9986f"><head>Scope and Contents Note</head><p>Folder contains: press sclippings; a bulletin from Oakwood Baptist Church, Knoxville Tennessee.</p></scopecontent></c01></dsc>
+</archdesc>
+</ead>

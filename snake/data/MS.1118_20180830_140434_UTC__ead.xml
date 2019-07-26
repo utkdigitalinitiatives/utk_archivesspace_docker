@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd"><eadheader countryencoding="iso3166-1" dateencoding="iso8601" findaidstatus="ready_for_online" langencoding="iso639-2b" repositoryencoding="iso15511"><eadid>0012_004180_000000_0000</eadid><filedesc><titlestmt><titleproper>Finding Aid for the Mrs. P. S. Rothrock Scrapbook <num>MS.1118</num></titleproper><author>Erin Sweeney</author></titlestmt><publicationstmt><publisher>University of Tennessee Libraries, Special Collections</publisher><p><date>March 2018</date></p><address><addressline>Knoxville</addressline></address></publicationstmt></filedesc><profiledesc><creation>This finding aid was produced using ArchivesSpace on <date>2018-08-30 10:04:35 -0400</date>.</creation><langusage>English</langusage><descrules>Describing Archives: A Content Standard</descrules></profiledesc></eadheader><archdesc level="collection">
+  <did>
+    <langmaterial>
+      <language langcode="eng">English</language>
+    </langmaterial>
+    <repository>
+      <corpname>University of Tennessee Libraries, Special Collections</corpname>
+    </repository>
+    <unittitle>Mrs. P. S. Rothrock Scrapbook</unittitle>
+    <origination label="creator">
+      <persname source="ingest">Rothrock, Mrs. P.S.</persname>
+    </origination>
+    <unitid>MS.1118</unitid>
+    <unitid audience="internal" identifier="8774" type="Archivists Toolkit Database::RESOURCE">8774</unitid>
+    <physdesc altrender="whole">
+      <extent altrender="materialtype spaceoccupied">0.25 Linear Feet</extent>
+      <extent altrender="carrier">(1 flat box)</extent>
+    </physdesc>
+    <unitdate normal="1917/1934" type="inclusive">1917-1934</unitdate>
+    <abstract id="aspace_30a344e7e2108e25059ec432b26aa882">A scrapbook put together by Mrs. P. S. Rothrock comprised of letters, newspaper articles, and photographs relating to her organization out of North Carolina, Children of Confederacy, an auxiliary association of the Daughters of the Confederacy. The dates noted in the scrapbook fall between 1917 and 1934.</abstract>
+    <langmaterial id="aspace_53a5ae05485897833ad7e1941e1c9bb8">This material is written in English.</langmaterial>
+  </did>
+  <bioghist id="aspace_9f458f67977e7a8dfee10b1ab23d5ad2">
+    <head>Biographical/Historical Note</head>
+<p>No biographical information is available for this collection.</p>  </bioghist>
+  <scopecontent id="aspace_c63b31a57dd5e46e01bfd3892c3807fa">
+    <head>Scope and Contents Note</head>
+<p>A scrapbook put together by Mrs. P. S. Rothrock comprised of letters, newspaper articles, and photographs relating to her organization out of North Carolina, Children of Confederacy, an auxiliary association of the Daughters of the Confederacy. The dates noted in the scrapbook fall between 1917 and 1934. The documents within the scrapbook contain information both directly pertaining to the organization as well as articles of the time relating to the Civil War, specifically Confederate history, from local sources in several North Carolina towns.</p>  </scopecontent>
+  <accessrestrict id="aspace_0a46fe8fea20bb7cfbd79265ee1e4812">
+    <head>Conditions Governing Access</head>
+<p>Collections are stored offsite, and a minimum of 24 hours is needed to retrieve these items for use. Researchers interested in consulting any of the collections are advised to contact Special Collections.</p>  </accessrestrict>
+  <userestrict id="aspace_e88f7bab4f3a5f0fd13b9786c6115b89">
+    <head>Conditions Governing Use</head>
+<p>The copyright interests in this collection remain with the creator. For more information, contact the Special Collections Library.</p>  </userestrict>
+  <prefercite id="aspace_f457c286275361f8fa9356d6193fb655">
+    <head>Preferred Citation</head>
+<p>[Identification of Item], Mrs. P. S. Rothrock Scrapbook, MS.1118. University of Tennessee Libraries, Knoxville, Special Collections.</p>  </prefercite>
+  <controlaccess>
+    <geogname source="lcsh">North Carolina -- History.</geogname>
+    <subject source="local">United Daughters of the Confederacy -- History</subject>
+    <geogname source="lcsh">United States -- History -- Civil War, 1861-1865.</geogname>
+  </controlaccess>
+  <dsc><c01 id="aspace_ref6_5mv" level="file"><did><unittitle>Mrs. P. S. Rothrock Scrapbook,</unittitle><unitid audience="internal" identifier="299676" type="Archivists Toolkit Database::RESOURCE_COMPONENT">299676</unitid><physdesc altrender="whole"><extent altrender="materialtype spaceoccupied">0.1 Linear Feet</extent></physdesc><unitdate normal="1917/1934" type="inclusive">1917-1934</unitdate><container id="aspace_b353b270e472a3c6bd403060e5276ff2" label="Mixed Materials" type="box">1</container></did></c01></dsc>
+</archdesc>
+</ead>
