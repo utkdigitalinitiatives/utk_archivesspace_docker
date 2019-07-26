@@ -20,6 +20,7 @@ class ArchiveSpace:
 
     def __authenticate(self):
         r = requests.post(url=f'{self.base_url}:8089/users/{self.username}/login?password={self.password}')
+        print(r.json)
         return r.json()['session']
 
     def __test_if_service_up(self):
@@ -51,11 +52,13 @@ class ArchiveSpace:
             return self.create_repository()
 
     def __test_if_data_exists(self):
+        #self.delete_repository()
         r = requests.get(url=f'{self.base_url}:8089/repositories', headers=self.headers)
+        print(r.content)
         if len(r.json()) >= 1:
             print(f"ArchivesSpace has data:")
             for repo in r.json():
-                print(repo['repo_code'])
+                print(repo)
             return
         else:
             print("ArchivesSpace has no data.  Building repositories.")
@@ -91,21 +94,45 @@ class ArchiveSpace:
             print("Sleeping 10 seconds.")
             time.sleep(10)
             self.create_repository()
-        return self.create_records()
+        return self.create_import_jobs()
 
     @staticmethod
     def add_sample_resources(path):
         for record in os.walk(path):
-            return [file for file in record[2] if file.endswith(".json")]
+            return [file for file in record[2] if file.endswith(".xml")]
+
+    def delete_repository(self):
+        r = requests.delete(url=f'{self.base_url}:8089/repositories/2',
+                            headers=self.headers)
+        return
 
     def create_records(self):
         for file in self.records:
             with open(f'data/{file}', 'r') as record:
                 text = record.read()
-                r = requests.post(url=f'{self.base_url}:8089/repositories/1/resources',
+                r = requests.post(url=f'{self.base_url}:8089/repositories/2/resources',
                                   headers=self.headers,
                                   data=text)
-                print(f'{r.status_code} for {file}')
+                print(f'{r.status_code} for {file}.  \n {r.json()}')
+        return
+
+    def create_import_jobs(self):
+        print(self.records)
+        for file in self.records:
+            r = requests.post(url=f'{self.base_url}:8089/repositories/2/jobs',
+                              headers=self.headers,
+                              data= json.dumps(
+                                  {"jsonmodel_type":"job",
+                                   "status":"queued",
+                                   "job":{
+                                         "jsonmodel_type":"import_job",
+                                         "filenames":[f'data/{file}'],
+                                         "import_type":"ead_xml"
+                                     }
+                                     }
+                              )
+                              )
+            print(f'{r.status_code} for {file}. \n\t {r.json()}')
         return
 
 
