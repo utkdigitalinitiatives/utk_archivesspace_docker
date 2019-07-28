@@ -137,7 +137,7 @@ class ArchiveSpace:
                               params= {"job": job},
                               files=test
                               )
-        print(f'{r.status_code} for {file}. \n\t {r.json()}')
+            print(f'{r.status_code} for {file}. \n\t {r.json()}')
         return
 
 
