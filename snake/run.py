@@ -4,6 +4,7 @@ import time
 import sys
 from requests.exceptions import ConnectionError
 import os
+from pathlib import Path
 
 
 class ArchiveSpace:
@@ -87,7 +88,7 @@ class ArchiveSpace:
                                       "ref": "/agents/corporate_entities/1"
                                   }
                               }
-                          )
+                          ),
                           )
         self.__test_if_repositories_were_created()
         if r.status_code == 400:
@@ -117,22 +118,26 @@ class ArchiveSpace:
         return
 
     def create_import_jobs(self):
-        print(self.records)
+        print(f'Creating jobs to add {self.records}')
         for file in self.records:
-            r = requests.post(url=f'{self.base_url}:8089/repositories/2/jobs',
+            current_file = os.path.abspath(f'data/{file}')
+            filename = [Path(current_file).stem]
+            test = [("files[]", open(current_file, "rb"))]
+            print(current_file)
+            job = json.dumps({
+                "job_type": "import_job",
+                "job": {
+                    "import_type": "ead_xml",
+                    "jsonmodel_type": "import_job",
+                    "filenames": filename
+                }
+            })
+            r = requests.post(url=f'{self.base_url}:8089/repositories/2/jobs_with_files',
                               headers=self.headers,
-                              data= json.dumps(
-                                  {"jsonmodel_type":"job",
-                                   "status":"queued",
-                                   "job":{
-                                         "jsonmodel_type":"import_job",
-                                         "filenames":[f'data/{file}'],
-                                         "import_type":"ead_xml"
-                                     }
-                                     }
+                              params= {"job": job},
+                              files=test
                               )
-                              )
-            print(f'{r.status_code} for {file}. \n\t {r.json()}')
+        print(f'{r.status_code} for {file}. \n\t {r.json()}')
         return
 
 
