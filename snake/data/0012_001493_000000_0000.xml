@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="Completed" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b">
+      <eadid>0012_001493_000000_0000</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Finding Aid for the Margaret Ann Roth Photographs
+                    <num>MS.3201</num>
+            </titleproper>
+            <author>Finding aid prepared by Terrence Kane,</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Tennessee Libraries, Special Collections</publisher>
+            <address>
+               <addressline>Knoxville</addressline>
+            </address>
+            <date>2007 October</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-11-19T13:13-0500</date>
+         </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Margaret Ann Roth Photographs</unittitle>
+         <unitid>MS.3201</unitid>
+         <repository>
+            <corpname>University of Tennessee Libraries, Special Collections</corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng"/>
+         </langmaterial>
+         <physdesc>
+            <extent>2.0 Linear feet</extent>
+         </physdesc>
+         <unitdate>1955 April 3-1958 November 26</unitdate>
+         <abstract id="ref2" label="Abstract">This collection consists of photographs and corresponding negatives taken by Margaret Ann Roth. Some of the subjects depicted include football games at the University of Tennessee in the 1950s, various parts of the Smoky Mountains, and dams in various stages of construction in the East Tennessee area.</abstract>
+         <origination label="creator">
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed." source="local">Roth, Margaret,  (Margaret Ann), 1921-2004</persname>
+         </origination>
+      </did>
+      <accessrestrict>
+         <head>Conditions Governing Access</head>
+         <p>Colletions are stored offsite, and a minimum of 24 hours is needed to retrieve these items for use. Researchers interested in consulting any of the collections are advised to contact Special Collections at special@utk.edu.</p>
+      </accessrestrict>
+      <userestrict>
+         <head>Conditions Governing Use</head>
+         <p>The copyright interests in this collection remain with the creator. For more information, contact the Special Collections Library.</p>
+      </userestrict>
+      <prefercite id="ref5">
+         <head>Preferred Citation</head>
+         <p>[Identification of Item], Margaret Ann Roth Photographs, MS.3201. University of Tennessee Libraries, Knoxville, Special Collections.</p>
+      </prefercite>
+      <acqinfo id="ref6">
+         <head>Acquisition Note</head>
+         <p>This collection is property of the University of Tennessee Libraries, Knoxville, Special Collections.</p>
+      </acqinfo>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Note</head>
+         <p>No biographical information is available.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Scope and Contents Note</head>
+         <p>This collection consists of photographs and corresponding negatives taken by Margaret Ann Roth. Some of the subjects depicted include football games at the University of Tennessee in the 1950s, various parts of the Smoky Mountains, and dams in various stages of construction in the East Tennessee area.</p>
+         <p>The photographs documenting the construction of dams in East Tennessee contain images of Morgan Dam, Chilhowee Dam, Fort Loudon Dam, and Douglas Dam taken in 1956. Other engineering photographs include shots of the Southern Railway Crash that took place at Powell's Station in 1956 and the destruction of the Pratt Store following a fire in 1955.</p>
+         <p>The images documenting University of Tennessee football games include images of the UT-Georgia Tech game of 1955 November 6 (which ended in a tie with both teams scoring seven points), the UT-Georgia Tech game of 1957 November 9 (which UT won 21-7), the UT-Maryland game of 1956 October 7 (which UT won 34-7), and the UT-Kentucky game of 1958 November 22 (which UT lost 6-2).</p>
+         <p>The largest part of this collection consists of family photos. The majority of these images are taken at Twin Oaks, a mountain retreat. Subjects include bible camps, cook outs, sunsets, and other family activities. These pictures provide fantastic views of the Smoky Mountains. The people included in these photos are family and friends, although it is not clear whether Twin Oaks is owned by one or more families. Other family photos include trips to Stone Mountain in Atlanta, Georgia, a trip to Inverness, Florida, and various holidays and other significant events. There are also historical photos depicting such things as the Sam Houston school near Maryville, Tennessee. Pictures of the Smoky Mountains are taken from Cades Cove, Newfound Gap, and Indian Gap.</p>
+      </scopecontent>
+      <arrangement id="ref9">
+         <head>Arrangement</head>
+         <p>Collection consists of two boxes.</p>
+      </arrangement>
+      <controlaccess>
+         <head>Subjects</head>
+         <geogname source="lcsh">Great Smoky Mountains (N.C. and Tenn.) -- Pictorial works.</geogname>
+         <geogname source="lcsh">Inverness (Fla.) -- Pictorial works.</geogname>
+         <geogname source="lcsh">Stone Mountain (Ga.) -- Pictorial works.</geogname>
+         <subject source="lcsh">Tennessee Valley Authority -- Pictorial works.</subject>
+         <subject source="lcsh">Tennessee Volunteers (Football team) -- Pictorial works.</subject>
+      </controlaccess>
+      <dsc>
+         <head>Container List</head>
+         <c01 id="ref10" level="file">
+            <did>
+               <unittitle>Twin Oaks, gas tanks and dogwoods, some of Aunt Margaret and Mary Helen,</unittitle>
+               <container id="cid4812525" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812525" type="Folder">1</container>
+               <unitdate>1955 April 17-19</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref11" level="file">
+            <did>
+               <unittitle>Twin Oaks, Easter, some of Billy,</unittitle>
+               <container id="cid4812524" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812524" type="Folder">2</container>
+               <unitdate>1955 March 31-April 10</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref12" level="file">
+            <did>
+               <unittitle>The Meyers at Twin Oaks, Mother's Day, The Gafnea's, and Jim Bouman Cabin,</unittitle>
+               <container id="cid4812523" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812523" type="Folder">3</container>
+               <unitdate>1955 May 1-8</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref13" level="file">
+            <did>
+               <unittitle>Father's Day and Rev. Caldwell S. S. Clan,</unittitle>
+               <container id="cid4812522" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812522" type="Folder">4</container>
+               <unitdate>1955 June 21-July 4</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref14" level="file">
+            <did>
+               <unittitle>River on the Rampage, 2 of Old Cemetery, and Night Blooming Cereus,</unittitle>
+               <container id="cid4812521" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812521" type="Folder">5</container>
+               <unitdate>1955 July 9-12</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref15" level="file">
+            <did>
+               <unittitle>Inverness, Florida, Pine Island, and Crystal River,</unittitle>
+               <container id="cid4812520" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812520" type="Folder">6</container>
+               <unitdate>1955 July 18-31</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref16" level="file">
+            <did>
+               <unittitle>Atlanta, Georgia, Stone Mountain and Capital, Mary and Charles,</unittitle>
+               <container id="cid4812519" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812519" type="Folder">7</container>
+               <unitdate>1955 August 5-7</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref17" level="file">
+            <did>
+               <unittitle>Twin Oaks, Dad painting cabin, Aunt Mable and Uncle Louis, and Pratt Store Fire,</unittitle>
+               <container id="cid4812518" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812518" type="Folder">8</container>
+               <unitdate>1955 August 13-28</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref18" level="file">
+            <did>
+               <unittitle>Labor Day, Twin Oaks, and Ramsey Falls,</unittitle>
+               <container id="cid4812517" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812517" type="Folder">9</container>
+               <unitdate>1955 September 3-5</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref19" level="file">
+            <did>
+               <unittitle>Family Reunion at Aunt Mable's, Twin Oaks, Vera Pitcher and Mrs. Mackay,</unittitle>
+               <container id="cid4812516" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812516" type="Folder">10</container>
+               <unitdate>1955 September 25-October 1</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref20" level="file">
+            <did>
+               <unittitle>Pickett State Park,</unittitle>
+               <container id="cid4812515" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812515" type="Folder">11</container>
+               <unitdate>1955 October 1-1955 October 2 and 1955 October 29-30</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref21" level="file">
+            <did>
+               <unittitle>Tennessee 7 Georgia Tech 7 also Thanksgiving and Twin Oaks with Lib and Charlie Lynch,</unittitle>
+               <container id="cid4812514" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812514" type="Folder">12</container>
+               <unitdate>1955 November 6-24</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref22" level="file">
+            <did>
+               <unittitle>Christmas Day, Twin Oaks, and Aunt Degies,</unittitle>
+               <container id="cid4812513" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812513" type="Folder">13</container>
+               <unitdate>1955 December 25-1956 January 17</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref23" level="file">
+            <did>
+               <unittitle>Norris Dam and Lake,</unittitle>
+               <container id="cid4812512" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812512" type="Folder">14</container>
+               <unitdate>1956 January 15</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref24" level="file">
+            <did>
+               <unittitle>Cherokee Dam and Douglas Dam,</unittitle>
+               <container id="cid4812511" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812511" type="Folder">15</container>
+               <unitdate>1956 January 22</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref25" level="file">
+            <did>
+               <unittitle>5.4 Inches of Snow Around Home,</unittitle>
+               <container id="cid4812510" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812510" type="Folder">16</container>
+               <unitdate>1956 January 24</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref26" level="file">
+            <did>
+               <unittitle>Snow, Jeannie Walker, Snow Man, Mrs. Blanketship,</unittitle>
+               <container id="cid4812509" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812509" type="Folder">17</container>
+               <unitdate>1956 January-February 11</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref27" level="file">
+            <did>
+               <unittitle>Sonny Frying Steaks and three of our church,</unittitle>
+               <container id="cid4812508" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812508" type="Folder">18</container>
+               <unitdate>1956 March 9-11</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref28" level="file">
+            <did>
+               <unittitle>Chilhowee Dam and Gary Lynch,</unittitle>
+               <container id="cid4812507" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812507" type="Folder">19</container>
+               <unitdate>1956 February 11-26</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref29" level="file">
+            <did>
+               <unittitle>Easter, Southern Railway Crash at Powell Station, Cutting Wood at Twin Oaks,</unittitle>
+               <container id="cid4812506" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812506" type="Folder">20</container>
+               <unitdate>1956 April 1-8</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref30" level="file">
+            <did>
+               <unittitle>Dogwood and Twin Oaks,</unittitle>
+               <container id="cid4812505" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812505" type="Folder">21</container>
+               <unitdate>1956 April 14-24</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref31" level="file">
+            <did>
+               <unittitle>Mothers Day and her birthday, playing in the water, Mrs. Brooks and Mrs. Schlank,</unittitle>
+               <container id="cid4812504" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812504" type="Folder">22</container>
+               <unitdate>1956 May 2-19</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref32" level="file">
+            <did>
+               <unittitle>Chucky Jack Theater, Mr. and Mrs. Brook and Bill, Francis and Charles Pittman at Twin Oaks,</unittitle>
+               <container id="cid4812503" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812503" type="Folder">23</container>
+               <unitdate>1956 May 20</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref33" level="file">
+            <did>
+               <unittitle>Old House, Twin Oaks, Sunsets and Cows, and Circle Number 2 Meeting,</unittitle>
+               <container id="cid4812502" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812502" type="Folder">24</container>
+               <unitdate>1956 June 9-27</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref34" level="file">
+            <did>
+               <unittitle>Rebecca Caldwell Class and Twin Oaks,</unittitle>
+               <container id="cid4812501" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812501" type="Folder">25</container>
+               <unitdate>1956 June 19-24</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref35" level="file">
+            <did>
+               <unittitle>Charlotte Ann Shea, Dan on porch, Sonny and Cookie at Twin Oaks,</unittitle>
+               <container id="cid4812500" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812500" type="Folder">26</container>
+               <unitdate>1956 July 8-10</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref36" level="file">
+            <did>
+               <unittitle>Fish Fry and Bill and I,</unittitle>
+               <container id="cid4812499" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812499" type="Folder">27</container>
+               <unitdate>1956 July 26</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref37" level="file">
+            <did>
+               <unittitle>Twin Oaks, Ben Jr., and three of Donnie Roland,</unittitle>
+               <container id="cid4812498" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812498" type="Folder">28</container>
+               <unitdate>1956 August 5-September 3</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref38" level="file">
+            <did>
+               <unittitle>Spook Night, Sunday at Hiking Club,</unittitle>
+               <container id="cid4812497" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4812497" type="Folder">29</container>
+               <unitdate>1956 October 20</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref39" level="file">
+            <did>
+               <unittitle>Cades Cove with Mary and Ann Jones, Tennessee 34 Maryland 7,</unittitle>
+               <container id="cid4812496" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812496" type="Folder">1</container>
+               <unitdate>1956 October 27-November 4</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref40" level="file">
+            <did>
+               <unittitle>Manger and family at our house,</unittitle>
+               <container id="cid4812495" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812495" type="Folder">2</container>
+               <unitdate>1956 December 17-24</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref41" level="file">
+            <did>
+               <unittitle>New Found Gap and Indian Gap, 39th Wedding Anniversary,</unittitle>
+               <container id="cid4812494" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812494" type="Folder">3</container>
+               <unitdate>1957 February 17</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref42" level="file">
+            <did>
+               <unittitle>Fort Loudon Dam and Snow,</unittitle>
+               <container id="cid4812493" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812493" type="Folder">4</container>
+               <unitdate>1957 February 24-March 8</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref43" level="file">
+            <did>
+               <unittitle>Old Sam Houston School and Chilhowee Dam,</unittitle>
+               <container id="cid4812492" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812492" type="Folder">5</container>
+               <unitdate>1957 March 24</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref44" level="file">
+            <did>
+               <unittitle>Young People of the Church at Twin Oaks and Mothers Day,</unittitle>
+               <container id="cid4812491" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812491" type="Folder">6</container>
+               <unitdate>1957 May 25-June</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref45" level="file">
+            <did>
+               <unittitle>Father's Day and Mary and Ann Jones,</unittitle>
+               <container id="cid4812490" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812490" type="Folder">7</container>
+               <unitdate>1957 June 2-16</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref46" level="file">
+            <did>
+               <unittitle>Rebecca Caldwell Bible Class at Twin Oaks,</unittitle>
+               <container id="cid4812489" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812489" type="Folder">8</container>
+               <unitdate>1957 June 18</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref47" level="file">
+            <did>
+               <unittitle>Twin Oaks Birthday Pictures,</unittitle>
+               <container id="cid4812488" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812488" type="Folder">9</container>
+               <unitdate>1957 July 13- 21</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref48" level="file">
+            <did>
+               <unittitle>The Gafneas and Calberts at Twin Oaks,</unittitle>
+               <container id="cid4812487" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812487" type="Folder">10</container>
+               <unitdate>1957 July-August 17</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref49" level="file">
+            <did>
+               <unittitle>In Mother's Room at St. Mary's, Rm. 311, good ones of Ann and Mary Jones,</unittitle>
+               <container id="cid4812486" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812486" type="Folder">11</container>
+               <unitdate>1957 September 15-October 6</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref50" level="file">
+            <did>
+               <unittitle>Porch at Twin Oaks, Mountains, Dad, and Sonny cutting down tree,</unittitle>
+               <container id="cid4812485" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812485" type="Folder">12</container>
+               <unitdate>1957 October 20</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref51" level="file">
+            <did>
+               <unittitle>Tennessee 21 Georgia Tech 6 and Trumpet Vine in full bloom,</unittitle>
+               <container id="cid4812484" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812484" type="Folder">13</container>
+               <unitdate>1957 October 23-November 9</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref52" level="file">
+            <did>
+               <unittitle>Cabin in the snow,</unittitle>
+               <container id="cid4812483" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812483" type="Folder">14</container>
+               <unitdate>1957 November 30</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref53" level="file">
+            <did>
+               <unittitle>Home, Aunt Mable's, School, and Mary Evelyn House,</unittitle>
+               <container id="cid4812482" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812482" type="Folder">15</container>
+               <unitdate>1957 December 24-1958 January 30</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref54" level="file">
+            <did>
+               <unittitle>Twin Oaks,</unittitle>
+               <container id="cid4812481" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812481" type="Folder">16</container>
+               <unitdate>1958 February 9</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref55" level="file">
+            <did>
+               <unittitle>The four of us in the living room and Easter Sunday,</unittitle>
+               <container id="cid4812480" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812480" type="Folder">17</container>
+               <unitdate>1958 February 17-April 6</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref56" level="file">
+            <did>
+               <unittitle>Twin Oaks, Mary Catherine Gallaher at Townsend, and the three Mary's,</unittitle>
+               <container id="cid4812479" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812479" type="Folder">18</container>
+               <unitdate>1958 April 8-1958 April 28</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref57" level="file">
+            <did>
+               <unittitle>Wilma, Sonny, Dad, and I taken at Twin Oaks,</unittitle>
+               <container id="cid4812478" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812478" type="Folder">19</container>
+               <unitdate>1958 May 4</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref58" level="file">
+            <did>
+               <unittitle>Lunch at Hiking Clubs Cabin,</unittitle>
+               <container id="cid4812477" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812477" type="Folder">20</container>
+               <unitdate>1958 May 31</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref59" level="file">
+            <did>
+               <unittitle>Rebecca Caldwell Bible Class at Twin Oaks,</unittitle>
+               <container id="cid4812476" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812476" type="Folder">21</container>
+               <unitdate>1958 June 17</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref60" level="file">
+            <did>
+               <unittitle>Wedding and Twin Oaks early scenes,</unittitle>
+               <container id="cid4812475" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812475" type="Folder">22</container>
+               <unitdate>1958 June 20-July 6</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref61" level="file">
+            <did>
+               <unittitle>Aunt Mable, Uncle Louie, and Anne at Twin Oaks and Wilma, Sarah, and I in the river,</unittitle>
+               <container id="cid4812474" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812474" type="Folder">23</container>
+               <unitdate>1958 July 13-27</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref62" level="file">
+            <did>
+               <unittitle>The Fish Fry at Tom DeWine and the Welsh Picnic at Townsend,</unittitle>
+               <container id="cid4812473" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812473" type="Folder">24</container>
+               <unitdate>1958 August 1-9</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref63" level="file">
+            <did>
+               <unittitle>Labor Day at Twin Oaks,</unittitle>
+               <container id="cid4812472" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812472" type="Folder">25</container>
+               <unitdate>1958 September 1-3</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref64" level="file">
+            <did>
+               <unittitle>Frank Parker Cabin,</unittitle>
+               <container id="cid4812471" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812471" type="Folder">26</container>
+               <unitdate>1958 October 5</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref65" level="file">
+            <did>
+               <unittitle>Uncle Don Place, Inverness, Florida, and Films,</unittitle>
+               <container id="cid4812470" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812470" type="Folder">27</container>
+               <unitdate>1958 October 18-24</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref66" level="file">
+            <did>
+               <unittitle>Twin Oaks Spook Night and Tennessee 2 Kentucky 6,</unittitle>
+               <container id="cid4812469" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812469" type="Folder">28</container>
+               <unitdate>1958 October 25-November 22</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref67" level="file">
+            <did>
+               <unittitle>The Gafneas at Twin Oaks and some of old Same Houston School, and Charles Roth,</unittitle>
+               <container id="cid4812468" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812468" type="Folder">29</container>
+               <unitdate>1957 March-August</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref68" level="file">
+            <did>
+               <unittitle>Welsh Picnic and Twin Oaks and Charles Roth,</unittitle>
+               <container id="cid4812467" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812467" type="Folder">30</container>
+               <unitdate>1957 August 17-October 20</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref69" level="file">
+            <did>
+               <unittitle>Early Pictures,</unittitle>
+               <container id="cid4812466" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812466" type="Folder">31</container>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref70" level="file">
+            <did>
+               <unittitle>Prints,</unittitle>
+               <container id="cid4812465" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812465" type="Folder">32</container>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+         <c01 id="ref71" level="file">
+            <did>
+               <unittitle>Films,</unittitle>
+               <container id="cid4812464" type="Box" label="Mixed Materials">2</container>
+               <container parent="cid4812464" type="Folder">33</container>
+               <unitdate>undated</unitdate>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

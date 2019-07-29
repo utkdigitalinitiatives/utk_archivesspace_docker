@@ -1,0 +1,598 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="Completed" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b">
+      <eadid>0012_003912_000000_0000</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Finding Aid for Virginia P. Moore Collection
+                    <num>MS.3821</num>
+            </titleproper>
+            <author>Finding aid prepared by Laura Romans</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Tennessee Libraries, Special Collections</publisher>
+            <address>
+               <addressline>Knoxville</addressline>
+            </address>
+            <date>October 2016</date>
+         </publicationstmt>
+         <notestmt>
+            <note>
+               <p>This collection is a merge of MS.1546, MS.2201, and MS.2376. All material from the previous collections are incorporated into this collection.</p>
+            </note>
+         </notestmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-11-19T14:02-0500</date>
+         </creation>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Virginia P. Moore Collection</unittitle>
+         <unitid>MS.3821</unitid>
+         <repository>
+            <corpname>University of Tennessee Libraries, Special Collections</corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng"/>
+         </langmaterial>
+         <physdesc>
+            <extent>2.5 Linear feet</extent>
+            <extent>(5 boxes)</extent>
+         </physdesc>
+         <unitdate normal="1880/1940" type="inclusive">1880-1940</unitdate>
+         <abstract id="ref8" label="Abstract">This collection contains letters, photographs, articles, notes, and other material documenting the work of Virginia P. Moore, an early home demonstration agent in Tennessee.</abstract>
+         <langmaterial id="ref12" label="Language">The material in this collection is in English.</langmaterial>
+         <origination label="creator">
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed."
+                      source="Library_of_Congress_Name_Authority_File">Moore, Virginia P.,  (Virginia Pearl)</persname>
+         </origination>
+      </did>
+      <scopecontent id="ref9">
+         <head>Scope and Contents Note</head>
+         <p>This collection contains letters, photographs, articles, notes, and other material documenting the work of Virginia P. Moore, an early home demonstration agent in Tennessee, and later in Florida, during the first half of the 20th century. The collection is arranged into seven series - Series I, Personal Material, includes items of Moore's documenting her personal life such as a diary, calendars, event programs, and travel mementos. Series II, Correspondence, includes letters and postcards written to and from Moore. Notable correspondence includes a few letters to and from Tennessee politician Cordell Hull and his wife, Rose. Series III, Writings by Moore, is comprised of unpublished and published notes and articles by Moore. Most relate to her work in home demonstration or to the history of the field. Series IV, Writings by Others, includes newspaper and magazine articles written about Moore as well as material related to home demonstration work. Series V, Home Demonstration Work Material, includes documents related to Moore's work in Tennessee and Florida. Items include examples of club students' work, recipes, pamphlets, event programs, and reports. Series VI, Photographs, includes photographs and negatives of Moore and her work with home demonstration clubs, agents, fairs, and with rural school improvement efforts. Series VII, Oversize, includes all oversize material such as a photograph album documenting Moore's work in Tennessee from 1911-1912 along with large photographs and a few certificates.</p>
+      </scopecontent>
+      <accessrestrict>
+         <head>Conditions Governing Access</head>
+         <p>Colletions are stored offsite, and a minimum of 24 hours is needed to retrieve these items for use. Researchers interested in consulting any of the collections are advised to contact Special Collections at special@utk.edu.</p>
+      </accessrestrict>
+      <userestrict>
+         <head>Conditions Governing Use</head>
+         <p>The copyright interests in this collection remain with the creator. For more information, contact the Special Collections Library.</p>
+      </userestrict>
+      <prefercite id="ref13">
+         <head>Preferred Citation</head>
+         <p>[Identification of Item], Virginia P. Moore Collection, MS.3821. University of Tennessee Libraries, Knoxville, Special Collections.</p>
+      </prefercite>
+      <otherfindaid id="ref15">
+         <head>Previous Citation</head>
+         <p>Material in this collection was previously cited as part of MS.1546, MS.2201, and MS.2376.</p>
+      </otherfindaid>
+      <bioghist id="ref61">
+         <head>Biographical/Historical Note</head>
+         <p>Virginia Pearl Moore was one of the first five home demonstration agents in the U. S. She served in this field of work in Tennessee and Florida from 1909-1946. Moore was born on July 7, 1880 to Armstead (1814-1884) and Louisa Virginia Crenshaw Moore (1844-1921) in Gallatin, Tennessee. After studying at Peabody Normal College in Nashville, Moore was named Tennessee's state organizer of School Improvement Work. In this capacity, she organized gardening and canning clubs in several Tennessee counties. In 1911, Moore was named the State Collaborator for Tennessee where she served until coming to the University of Tennessee as an Assistant Director and State Home Demonstration Agent in 1914. She resigned her post in 1919 to return to Gallatin to take care of her mother; after her mother's death in 1921, Moore accepted a position as Assistant Home Demonstrator Agent at Florida State College for Women at Tallahassee where she remained until retiring to Maple Valley, Tennessee in 1946. In June 1937, she was one of only two women invited to speak at the International Housing Congress in Paris, France. Virginia Moore died on May 31, 1950 and is buried in Mt. Olivet Cemetery in Nashville, Tennessee.</p>
+      </bioghist>
+      <controlaccess>
+         <head>Subjects</head>
+         <subject source="lcsh">Gardening</subject>
+         <occupation source="lcsh">Home demonstration work -- United States -- History.</occupation>
+         <occupation source="lcsh">Home economics extension workers -- United States.</occupation>
+         <subject source="lcsh">Women -- Tennessee -- History.</subject>
+      </controlaccess>
+      <dsc>
+         <head>Container List</head>
+         <c01 id="ref1" level="series">
+            <did>
+               <unittitle>Personal Material,</unittitle>
+               <unitid>I</unitid>
+               <unitdate>1927-1945, undated</unitdate>
+            </did>
+            <c02 id="ref16" level="file">
+               <did>
+                  <unittitle>Personal Diary and Calendars,</unittitle>
+                  <container id="cid7070001" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070001" type="Folder">1</container>
+                  <unitdate>1927-1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <unittitle>Personal Notebook,</unittitle>
+                  <container id="cid7070002" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070002" type="Folder">2</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <unittitle>Personal and Biographical Information,</unittitle>
+                  <container id="cid7070003" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070003" type="Folder">3</container>
+                  <unitdate>1928-1929, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <unittitle>Event Programs,</unittitle>
+                  <container id="cid7070004" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070004" type="Folder">4</container>
+                  <unitdate>1917 April 6-1945 October 20, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <unittitle>Mementos from European Travel,</unittitle>
+                  <container id="cid7070005" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070005" type="Folder">5</container>
+                  <unitdate>circa 1930s</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref3" level="series">
+            <did>
+               <unittitle>Correspondence,</unittitle>
+               <unitid>II</unitid>
+               <unitdate>1908-1950, undated</unitdate>
+            </did>
+            <c02 id="ref21" level="file">
+               <did>
+                  <unittitle>Correspondence,</unittitle>
+                  <container id="cid7070006" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070006" type="Folder">6</container>
+                  <unitdate>1908 June 22-1929 November 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <unittitle>Correspondence,</unittitle>
+                  <container id="cid7070007" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070007" type="Folder">7</container>
+                  <unitdate>1930 February 20-1939 March 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <unittitle>Correspondence,</unittitle>
+                  <container id="cid7070008" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070008" type="Folder">8</container>
+                  <unitdate>1943 May 8-1950 June 1, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <unittitle>Blank Postcards,</unittitle>
+                  <container id="cid7070009" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7070009" type="Folder">9</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref4" level="series">
+            <did>
+               <unittitle>Writings by Moore,</unittitle>
+               <unitid>III</unitid>
+               <unitdate>circa 1920-1940, undated</unitdate>
+            </did>
+            <c02 id="ref26" level="file">
+               <did>
+                  <unittitle>Various Writings by Moore,</unittitle>
+                  <container id="cid7071001" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071001" type="Folder">10-11</container>
+                  <unitdate>circa 1920-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <unittitle>Moore's Notes and Writings,</unittitle>
+                  <container id="cid7071002" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071002" type="Folder">12</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <unittitle>Moore's Writings on Home Demonstration Work in Florida,</unittitle>
+                  <container id="cid7071003" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071003" type="Folder">13</container>
+                  <unitdate>1929-1938, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <unittitle>Recollections on Early Home Demonstration in Florida,</unittitle>
+                  <container id="cid7071004" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071004" type="Folder">14</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <unittitle>"Questions on Home Sanitation to Make You Think," Home Improvement Series,</unittitle>
+                  <container id="cid7071005" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071005" type="Folder">15</container>
+                  <unitdate>1931 August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref31" level="file">
+               <did>
+                  <unittitle>"A Review of a Few Steps in Home Demonstration Work, 1908-1938,"</unittitle>
+                  <container id="cid7071006" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071006" type="Folder">16</container>
+                  <unitdate>circa 1938</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref32" level="file">
+               <did>
+                  <unittitle>"Tennessee's Early Tomato Club and Home Demonstration Work, From 1911-1919,"</unittitle>
+                  <container id="cid7071007" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071007" type="Folder">17</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <unittitle>Moore's Research and Writings on Alvin C. York,</unittitle>
+                  <container id="cid7071008" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071008" type="Folder">18</container>
+                  <unitdate>1919-1942, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <unittitle>Recollection on Meeting Cordell Hull,</unittitle>
+                  <container id="cid7071009" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071009" type="Folder">19</container>
+                  <unitdate>1942</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <unittitle>Moore's Writings on Dr. Seaman A. Knapp,</unittitle>
+                  <container id="cid7071010" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071010" type="Folder">20</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref5" level="series">
+            <did>
+               <unittitle>Writings by Others,</unittitle>
+               <unitid>IV</unitid>
+               <unitdate>1918-1970, undated</unitdate>
+            </did>
+            <c02 id="ref36" level="file">
+               <did>
+                  <unittitle>Articles about Moore,</unittitle>
+                  <container id="cid7071011" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071011" type="Folder">21</container>
+                  <unitdate>1946, 1970, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <unittitle>Articles by Others,</unittitle>
+                  <container id="cid7071012" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071012" type="Folder">22</container>
+                  <unitdate>1918 October 3-1919 February 10, 1937 January 21-1946 March, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <unittitle>Newspaper Clippings,</unittitle>
+                  <container id="cid7071013" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071013" type="Folder">23</container>
+                  <unitdate>1928 February 13-1943 December 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <unittitle>Clippings from 
+                            <emph render="italic">Extension Service Review</emph>,</unittitle>
+                  <container id="cid7071014" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071014" type="Folder">24</container>
+                  <unitdate>1937 May-1942 September</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <unittitle>"A Brief Study of the History of Sumner County,"</unittitle>
+                  <container id="cid7071015" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7071015" type="Folder">25</container>
+                  <unitdate>circa 1950</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref6" level="series">
+            <did>
+               <unittitle>Home Demonstration Work Material,</unittitle>
+               <unitid>V</unitid>
+               <unitdate>1909-1946, undated</unitdate>
+            </did>
+            <c02 id="ref41" level="file">
+               <did>
+                  <unittitle>Pamphlets,</unittitle>
+                  <container id="cid7075001" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7075001" type="Folder">26</container>
+                  <unitdate>1909-1946, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <unittitle>Work of Club Students,</unittitle>
+                  <container id="cid7075002" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7075002" type="Folder">27</container>
+                  <unitdate>1912, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <unittitle>Recipes and Instructions,</unittitle>
+                  <container id="cid7075003" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7075003" type="Folder">28</container>
+                  <unitdate>circa 1920-1930</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <unittitle>Travel Documents and Expenses,</unittitle>
+                  <container id="cid7075004" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7075004" type="Folder">29</container>
+                  <unitdate>1918 April-1920 November</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <unittitle>Cooperative Demonstration Work Meeting,</unittitle>
+                  <container id="cid7075005" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7075005" type="Folder">30</container>
+                  <unitdate>1928</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <unittitle>Silver Anniversary of Cooperative Demonstration Work,</unittitle>
+                  <container id="cid7075006" type="Box" label="Mixed materials">1</container>
+                  <container parent="cid7075006" type="Folder">31</container>
+                  <unitdate>1929</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <unittitle>Silver Jubilee Program at Florida State College for Women,</unittitle>
+                  <container id="cid7075007" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075007" type="Folder">1</container>
+                  <unitdate>1930 June 2</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <unittitle>International Housing and Town Planning Congress,</unittitle>
+                  <container id="cid7075008" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075008" type="Folder">2</container>
+                  <unitdate>1937</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <unittitle>Home Demonstration Reports,</unittitle>
+                  <container id="cid7075009" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075009" type="Folder">3</container>
+                  <unitdate>1911, 1930-1946, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <unittitle>Canning and Tomato Club Work in Tennessee,</unittitle>
+                  <container id="cid7075010" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075010" type="Folder">4</container>
+                  <unitdate>1913-1919, undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <unittitle>Reports on Demonstration Work in Florida,</unittitle>
+                  <container id="cid7075011" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075011" type="Folder">5</container>
+                  <unitdate>circa 1945</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <unittitle>"Canning Club Work in Tennessee,"</unittitle>
+                  <container id="cid7075012" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075012" type="Folder">6</container>
+                  <unitdate>1913</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <unittitle>"Four-Year Program of Work for Members of Girls' Home Demonstration Clubs in Tennessee,"</unittitle>
+                  <container id="cid7075013" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075013" type="Folder">7</container>
+                  <unitdate>1925 July</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <unittitle>"Home Demonstration Work under the Smith-Lever Act, 1919-1924,"</unittitle>
+                  <container id="cid7075014" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075014" type="Folder">8</container>
+                  <unitdate>1929 June</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <unittitle>4-H Publications,</unittitle>
+                  <container id="cid7075015" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075015" type="Folder">9</container>
+                  <unitdate>1929-1946</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <unittitle>
+                     <emph render="italic">Extension Service Review</emph>,</unittitle>
+                  <container id="cid7075016" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075016" type="Folder">10</container>
+                  <unitdate>1937 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <unittitle>"Recollections of Extension History" by J. A. Evans,</unittitle>
+                  <container id="cid7075017" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075017" type="Folder">11</container>
+                  <unitdate>1938 August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <unittitle>"A History of Extension Work in Tennessee: Twenty-Five Years of Service to Rural Life, 1914-1939,"</unittitle>
+                  <container id="cid7075018" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075018" type="Folder">12</container>
+                  <unitdate>1939 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <unittitle>"Extension Work in Virginia: A Brief History, 1907-1940,"</unittitle>
+                  <container id="cid7075019" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075019" type="Folder">13</container>
+                  <unitdate>circa 1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <unittitle>Epsilon Sigma Phi,</unittitle>
+                  <container id="cid7075020" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7075020" type="Folder">14</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref7" level="series">
+            <did>
+               <unittitle>Photographs,</unittitle>
+               <unitid>VI</unitid>
+               <unitdate>circa 1880-1940</unitdate>
+            </did>
+            <c02 id="ref65" level="file">
+               <did>
+                  <unittitle>Canning, Field Work, Crops,</unittitle>
+                  <container id="cid7078001" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7078001" type="Folder">15</container>
+                  <unitdate>circa 1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <unittitle>Early Work in Tennessee,</unittitle>
+                  <container id="cid7078002" type="Box" label="Mixed materials">2</container>
+                  <container parent="cid7078002" type="Folder">16</container>
+                  <unitdate>circa 1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <unittitle>Schools (Maury High School, Oakland School),</unittitle>
+                  <container id="cid7078003" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7078003" type="Folder">1</container>
+                  <unitdate>circa 1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <unittitle>Short Courses, Picnics, Exhibits,</unittitle>
+                  <container id="cid7078005" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7078005" type="Folder">2</container>
+                  <unitdate>circa 1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <unittitle>Corn and Tomato Clubs,</unittitle>
+                  <container id="cid7078006" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7078006" type="Folder">3</container>
+                  <unitdate>circa 1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <unittitle>Portraits,</unittitle>
+                  <container id="cid7078004" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7078004" type="Folder">4</container>
+                  <unitdate>circa 1880-1940</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <unittitle>Susie V. Powell Photographs and History,</unittitle>
+                  <container id="cid7078007" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7078007" type="Folder">5</container>
+                  <unitdate>circa 1910-1926</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <unittitle>Photographs,</unittitle>
+                  <container id="cid7078008" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7078008" type="Folder">6-7</container>
+                  <unitdate>circa 1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <unittitle>Negatives,</unittitle>
+                  <container id="cid7078009" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7078009" type="Folder">8</container>
+                  <unitdate>undated</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <unittitle>Loose Scrapbook Photographs,</unittitle>
+                  <container id="cid7360001" type="Box" label="Mixed materials">3</container>
+                  <container parent="cid7360001" type="Folder">9</container>
+                  <unitdate>circa 1912-1914</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref72" level="series">
+            <did>
+               <unittitle>Oversize,</unittitle>
+               <unitid>VII</unitid>
+               <unitdate>circa 1910-1920</unitdate>
+            </did>
+            <c02 id="ref73" level="file">
+               <did>
+                  <unittitle>Scrapbook,</unittitle>
+                  <container id="cid7084001" type="Box" label="Mixed materials">4</container>
+                  <unitdate>circa 1912-1914</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <unittitle>Photographs,</unittitle>
+                  <container id="cid7084002" type="Box" label="Mixed materials">5</container>
+                  <container parent="cid7084002" type="Folder">1-3</container>
+                  <unitdate>circa 1910-1920</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <unittitle>Awards and Certificates,</unittitle>
+                  <container id="cid7084003" type="Box" label="Mixed materials">5</container>
+                  <container parent="cid7084003" type="Folder">4</container>
+                  <unitdate>1917-1918</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>

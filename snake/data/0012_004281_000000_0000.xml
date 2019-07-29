@@ -1,0 +1,1715 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="Ready_for_online" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b">
+      <eadid>0012_004281_000000_0000</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Finding Aid for the Thompson-Boling Arena Construction Photographs
+                    <num>AR.0803</num>
+            </titleproper>
+            <author>Finding aid prepared by Aimee LaFon</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Tennessee Libraries, Special Collections</publisher>
+            <address>
+               <addressline>Knoxville</addressline>
+            </address>
+            <date>2018</date>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-11-19T09:32-0500</date>
+         </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Thompson-Boling Arena Construction Photographs</unittitle>
+         <unitid>AR.0803</unitid>
+         <repository>
+            <corpname>University of Tennessee Libraries, Special Collections</corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng"/>
+         </langmaterial>
+         <physdesc>
+            <extent>3.75 Linear feet</extent>
+         </physdesc>
+         <unitdate>1984-1986</unitdate>
+         <abstract id="ref1" label="Abstract">The Thompson-Boling arena construction photograph collection houses the photographs that were taken during the planning, construction, and finalization of Thompson-Boling Arena. The Thompson-boling Arena, home to the University of Tennessee's men's and women's basketball teams and the Lady Volunteer volleyball team, was first put in use during the 1987-88 sports season after its construction.</abstract>
+         <origination label="creator">
+            <corpname rules="local" source="local" role="Creator (cre)">University of Tennessee, Knoxville. Facilities Services.</corpname>
+         </origination>
+      </did>
+      <bioghist id="ref2">
+         <head>Biographical/Historical Note</head>
+         <p>The Thompson-Boling arena is named for B. Ray Thompson, Tennessee coal magnate and patron of the arena, and former U.T. president Dr. Edward J. Boling. The construction of the arena and the images from the collection span from early stages of development in 1983 to the finalization of the structure in 1987. Currently, with both the Tennessee Volunteers and Lady Volunteers basketball teams consistently in the top 25, Thompson–Boling Arena has received much attention as a premier college basketball facility. In addition, when UT sports are out of season, events and concerts are held in the arena.</p>
+      </bioghist>
+      <accessrestrict>
+         <head>Conditions Governing Access</head>
+         <p>Colletions are stored offsite, and a minimum of 24 hours is needed to retrieve these items for use. Researchers interested in consulting any of the collections are advised to contact Special Collections at special@utk.edu.</p>
+      </accessrestrict>
+      <userestrict>
+         <head>Conditions Governing Use</head>
+         <p>The copyright interests in this collection remain with the creator. For more information, contact the Special Collections Library.</p>
+      </userestrict>
+      <prefercite id="ref5">
+         <head>Preferred Citation</head>
+         <p>Thompson-Boling Arena Construction Photographs, AR.0803. University of Tennessee Libraries, Knoxville, Special Collections.</p>
+      </prefercite>
+      <scopecontent id="ref6">
+         <head>Scope and Contents Note</head>
+         <p>The collection of Thompson-Boling arena construction photographs has been divided into three series.</p>
+         <p>The first series of photographs appear on slides, with two slides corresponding to every workday until October 8, 1985. Series one is comprised of the the beginning documentation of arena construction, and is organized on a monthly basis.</p>
+         <p>Series two is comprised of mixed black-and-white photographs and color slides from October 8, 1985 to December 31, 1986. Series two marks increased frequency and volume of captured images and slides. Series two is organized by day since photographs and slides regularly occur in large quantities on a daily basis.</p>
+         <p>Series three houses color proofs that depict the final stages of construction from April 1987 to December 1987. Proofs of series three include up to eight photographs on each page, all organized sequentially by the areas photographed.</p>
+      </scopecontent>
+      <controlaccess>
+         <head>Subjects</head>
+         <corpname rules="Anglo-American_Cataloguing_Rules__2nd_ed."
+                   source="Library_of_Congress_Name_Authority_File"
+                   role="Donor (dnr)">University of Tennessee, Knoxville.</corpname>
+         <subject source="lcsh">University of Tennessee, Knoxville -- Buildings.</subject>
+         <subject source="lcsh">University of Tennessee, Knoxville -- History.</subject>
+      </controlaccess>
+      <dsc>
+         <head>Container List</head>
+         <c01 id="ref7" level="series">
+            <did>
+               <unittitle>Early Stages of Construction Slides</unittitle>
+               <unitdate>1983 November 1 - 1985 September 18</unitdate>
+            </did>
+            <scopecontent id="ref215">
+               <head>Scope and Contents Note</head>
+               <p>Slides from the initiation of the construction of Thompson-Boling Arena. Two slides are regularly timestamped for each day that images were captured.</p>
+            </scopecontent>
+            <c02 id="ref8" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7754006" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7754006" type="Folder">1</container>
+                  <unitdate>1983 November</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref9" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7754007" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7754007" type="Folder">2</container>
+                  <unitdate>1983 December</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref10" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7754008" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7754008" type="Folder">3</container>
+                  <unitdate>1984 January</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref11" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7754009" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7754009" type="Folder">4</container>
+                  <unitdate>1984 February</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref12" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7754010" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7754010" type="Folder">5</container>
+                  <unitdate>1984 March</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref13" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7754011" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7754011" type="Folder">6</container>
+                  <unitdate>1984 April</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref14" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756001" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756001" type="Folder">7</container>
+                  <unitdate>1984 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref15" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756002" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756002" type="Folder">8</container>
+                  <unitdate>1984 June</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref16" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756003" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756003" type="Folder">9</container>
+                  <unitdate>1984 July</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref17" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756004" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756004" type="Folder">10</container>
+                  <unitdate>1984 August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref18" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756005" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756005" type="Folder">11</container>
+                  <unitdate>1984 September</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref19" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756006" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756006" type="Folder">12</container>
+                  <unitdate>1984 October</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref20" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756007" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756007" type="Folder">13</container>
+                  <unitdate>1984 November</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref21" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756008" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756008" type="Folder">14</container>
+                  <unitdate>1984 December</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref22" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756009" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756009" type="Folder">15</container>
+                  <unitdate>1985 January</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref23" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756010" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756010" type="Folder">16</container>
+                  <unitdate>1985 February</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref24" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756011" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756011" type="Folder">17</container>
+                  <unitdate>1985 March</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref25" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756012" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756012" type="Folder">18</container>
+                  <unitdate>1985 April</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref26" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756013" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756013" type="Folder">19</container>
+                  <unitdate>1985 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref27" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756014" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756014" type="Folder">20</container>
+                  <unitdate>1985 June</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref28" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756015" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756015" type="Folder">21</container>
+                  <unitdate>1985 July</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref29" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756016" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756016" type="Folder">22</container>
+                  <unitdate>1985 August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref30" level="file">
+               <did>
+                  <unittitle>Slides,</unittitle>
+                  <container id="cid7756017" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756017" type="Folder">23</container>
+                  <unitdate>1985 September</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref31" level="series">
+            <did>
+               <unittitle>Middle Stages of Construction Slides and Photographs</unittitle>
+               <unitdate>1985 October 8 - 1986 December 31</unitdate>
+            </did>
+            <scopecontent id="ref214">
+               <head>Scope and Contents Note</head>
+               <p>Photographs and Slides occur on regular weekdays in instances of four images or more captured every work day. Mixed slides and photographs; some photographs from this series were excluded due to water damage.</p>
+            </scopecontent>
+            <c02 id="ref32" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7756018" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7756018" type="Folder">24</container>
+                  <unitdate>1985 October 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref33" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759001" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759001" type="Folder">25</container>
+                  <unitdate>1985 October 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref34" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759002" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759002" type="Folder">26</container>
+                  <unitdate>1985 October 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref35" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759003" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759003" type="Folder">27</container>
+                  <unitdate>1985 October 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref36" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759004" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759004" type="Folder">28</container>
+                  <unitdate>1985 October 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref37" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759005" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759005" type="Folder">29</container>
+                  <unitdate>1985 October 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref38" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759006" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759006" type="Folder">30</container>
+                  <unitdate>1985 October 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref39" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759007" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759007" type="Folder">31</container>
+                  <unitdate>1985 October 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref40" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759008" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759008" type="Folder">32</container>
+                  <unitdate>1985 October 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref41" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759009" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759009" type="Folder">33</container>
+                  <unitdate>1985 October 22</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref42" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759010" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759010" type="Folder">34</container>
+                  <unitdate>1985 October 23</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref43" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759011" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759011" type="Folder">35</container>
+                  <unitdate>1985 October 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref44" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759012" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759012" type="Folder">36</container>
+                  <unitdate>1985 October 25</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref45" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759013" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759013" type="Folder">37</container>
+                  <unitdate>1985 October 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref46" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759014" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759014" type="Folder">38</container>
+                  <unitdate>1985 October 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref47" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759015" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759015" type="Folder">39</container>
+                  <unitdate>1985 November 1</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref48" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759016" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759016" type="Folder">40</container>
+                  <unitdate>1985 November 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref49" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759017" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759017" type="Folder">41</container>
+                  <unitdate>1985 November 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref50" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759018" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759018" type="Folder">42</container>
+                  <unitdate>1985 November 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref51" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759019" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759019" type="Folder">43</container>
+                  <unitdate>1985 November 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref52" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759020" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759020" type="Folder">44</container>
+                  <unitdate>1985 November 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref53" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759021" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759021" type="Folder">45</container>
+                  <unitdate>1985 November 14</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref54" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759022" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759022" type="Folder">46</container>
+                  <unitdate>1985 November 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref55" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759023" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759023" type="Folder">47</container>
+                  <unitdate>1985 November 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref56" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759024" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759024" type="Folder">48</container>
+                  <unitdate>1985 November 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref57" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759025" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759025" type="Folder">49</container>
+                  <unitdate>1985 November 20</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref58" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759026" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759026" type="Folder">50</container>
+                  <unitdate>1985 November 22</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref59" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759027" type="Box" label="Graphic materials">1</container>
+                  <container parent="cid7759027" type="Folder">51</container>
+                  <unitdate>1985 November 25</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref60" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759028" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759028" type="Folder">1</container>
+                  <unitdate>1985 December 2</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref61" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759029" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759029" type="Folder">2</container>
+                  <unitdate>1985 December 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref62" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759030" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759030" type="Folder">3</container>
+                  <unitdate>1985 December 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref63" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759031" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759031" type="Folder">4</container>
+                  <unitdate>1985 December 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref64" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759032" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759032" type="Folder">5</container>
+                  <unitdate>1986 January 2</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref65" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759033" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759033" type="Folder">6</container>
+                  <unitdate>1986 January 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref66" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759034" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759034" type="Folder">7</container>
+                  <unitdate>1986 January 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref67" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759035" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759035" type="Folder">8</container>
+                  <unitdate>1986 January 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref68" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759036" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759036" type="Folder">9</container>
+                  <unitdate>1986 January 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref69" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759037" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759037" type="Folder">10</container>
+                  <unitdate>1986 January 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref70" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759038" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759038" type="Folder">11</container>
+                  <unitdate>1986 January 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref71" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759039" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759039" type="Folder">12</container>
+                  <unitdate>1986 January 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref72" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759040" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759040" type="Folder">13</container>
+                  <unitdate>1986 January 14</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref73" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759041" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759041" type="Folder">14</container>
+                  <unitdate>1986 January 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref74" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759042" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759042" type="Folder">15</container>
+                  <unitdate>1986 January 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref75" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759043" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759043" type="Folder">16</container>
+                  <unitdate>1986 January 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref76" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759044" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759044" type="Folder">17</container>
+                  <unitdate>1986 January 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref77" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759045" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759045" type="Folder">18</container>
+                  <unitdate>1986 January 22</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref78" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759046" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759046" type="Folder">19</container>
+                  <unitdate>1986 January 23</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref79" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759047" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759047" type="Folder">20</container>
+                  <unitdate>1986 January 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref80" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759048" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759048" type="Folder">21</container>
+                  <unitdate>1986 January 27</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref81" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759049" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759049" type="Folder">22</container>
+                  <unitdate>1986 January 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref82" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759050" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759050" type="Folder">23</container>
+                  <unitdate>1986 January 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref83" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759051" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759051" type="Folder">24</container>
+                  <unitdate>1986 January 31</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref84" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759052" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759052" type="Folder">25</container>
+                  <unitdate>1986 February 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref86" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759054" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759054" type="Folder">26</container>
+                  <unitdate>1986 February 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref87" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759055" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759055" type="Folder">27</container>
+                  <unitdate>1986 February 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref88" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759056" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759056" type="Folder">28</container>
+                  <unitdate>1986 February 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref89" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759057" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759057" type="Folder">29</container>
+                  <unitdate>1986 February 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref90" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759058" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759058" type="Folder">30</container>
+                  <unitdate>1986 February 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref91" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759059" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759059" type="Folder">31</container>
+                  <unitdate>1986 February 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref92" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759060" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759060" type="Folder">32</container>
+                  <unitdate>1986 February 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref93" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759061" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759061" type="Folder">33</container>
+                  <unitdate>1986 February 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref94" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759062" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759062" type="Folder">34</container>
+                  <unitdate>1986 February 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref95" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759063" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759063" type="Folder">35</container>
+                  <unitdate>1986 February 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref96" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759064" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759064" type="Folder">36</container>
+                  <unitdate>1986 February 20</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref97" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759065" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759065" type="Folder">37</container>
+                  <unitdate>1986 February 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref98" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759066" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759066" type="Folder">38</container>
+                  <unitdate>1986 February 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref99" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759067" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759067" type="Folder">39</container>
+                  <unitdate>1986 February 25</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref100" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7759068" type="Box" label="Graphic materials">2</container>
+                  <container parent="cid7759068" type="Folder">40</container>
+                  <unitdate>1986 February 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref101" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760001" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760001" type="Folder">1</container>
+                  <unitdate>1986 February 27</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref102" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760002" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760002" type="Folder">2</container>
+                  <unitdate>1986 February 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref103" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760003" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760003" type="Folder">3</container>
+                  <unitdate>1986 March 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref104" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760004" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760004" type="Folder">4</container>
+                  <unitdate>1986 March 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref105" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760005" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760005" type="Folder">5</container>
+                  <unitdate>1986 March 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref106" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760006" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760006" type="Folder">6</container>
+                  <unitdate>1986 March 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref107" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760007" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760007" type="Folder">7</container>
+                  <unitdate>1986 March 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref108" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760008" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760008" type="Folder">8</container>
+                  <unitdate>1986 March 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref110" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760009" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760009" type="Folder">9</container>
+                  <unitdate>1986 March 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref111" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7760010" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7760010" type="Folder">10</container>
+                  <unitdate>1986 March 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref112" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762001" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762001" type="Folder">11</container>
+                  <unitdate>1986 March 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref113" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762002" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762002" type="Folder">12</container>
+                  <unitdate>1986 March 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref114" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762003" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762003" type="Folder">13</container>
+                  <unitdate>1986 March 20</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref115" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762004" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762004" type="Folder">14</container>
+                  <unitdate>1986 March 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref116" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762005" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762005" type="Folder">15</container>
+                  <unitdate>1986 March 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref117" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762006" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762006" type="Folder">16</container>
+                  <unitdate>1986 March 25</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref118" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762007" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762007" type="Folder">17</container>
+                  <unitdate>1986 March 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref119" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762008" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762008" type="Folder">18</container>
+                  <unitdate>1986 March 27</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref120" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762009" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762009" type="Folder">19</container>
+                  <unitdate>1986 March 31</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref121" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762010" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762010" type="Folder">20</container>
+                  <unitdate>1986 April 1</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref122" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762011" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762011" type="Folder">21</container>
+                  <unitdate>1986 April 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref123" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762012" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762012" type="Folder">22</container>
+                  <unitdate>1986 April 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref124" level="item">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762013" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762013" type="Folder">23</container>
+                  <unitdate>1986 April 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref126" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762014" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762014" type="Folder">24</container>
+                  <unitdate>1986 April 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref127" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762015" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762015" type="Folder">25</container>
+                  <unitdate>1986 April 14</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref128" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762016" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762016" type="Folder">26</container>
+                  <unitdate>1986 April 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref129" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762017" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762017" type="Folder">27</container>
+                  <unitdate>1986 April 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref130" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762018" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762018" type="Folder">28</container>
+                  <unitdate>1986 April 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref131" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762019" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762019" type="Folder">29</container>
+                  <unitdate>1986 May 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref132" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762020" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762020" type="Folder">30</container>
+                  <unitdate>1986 May 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref133" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762021" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762021" type="Folder">31</container>
+                  <unitdate>1986 July 23</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref134" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762022" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762022" type="Folder">32</container>
+                  <unitdate>1986 July 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref135" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762023" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762023" type="Folder">33</container>
+                  <unitdate>1986 July 25</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref136" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762024" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762024" type="Folder">34</container>
+                  <unitdate>1986 July 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref137" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762025" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762025" type="Folder">35</container>
+                  <unitdate>1986 July 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref138" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762026" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762026" type="Folder">36</container>
+                  <unitdate>1986 July 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref139" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762027" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762027" type="Folder">37</container>
+                  <unitdate>1986 August 1</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref140" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762028" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762028" type="Folder">38</container>
+                  <unitdate>1986 August 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref141" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762029" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762029" type="Folder">39</container>
+                  <unitdate>1986 August 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref142" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762030" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762030" type="Folder">40</container>
+                  <unitdate>1986 August 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref144" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762031" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762031" type="Folder">41</container>
+                  <unitdate>1986 August 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref145" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762032" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762032" type="Folder">42</container>
+                  <unitdate>1986 August 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref146" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762033" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762033" type="Folder">43</container>
+                  <unitdate>1986 August 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref147" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762034" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762034" type="Folder">44</container>
+                  <unitdate>1986 August 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref148" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762035" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762035" type="Folder">45</container>
+                  <unitdate>1986 August 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref149" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762036" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762036" type="Folder">46</container>
+                  <unitdate>1986 August 14</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref150" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762037" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762037" type="Folder">47</container>
+                  <unitdate>1986 August 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref151" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762038" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762038" type="Folder">48</container>
+                  <unitdate>1986 August 20</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref152" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762039" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762039" type="Folder">49</container>
+                  <unitdate>1986 August 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref153" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762040" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762040" type="Folder">50</container>
+                  <unitdate>1986 August 22</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref154" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762041" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762041" type="Folder">51</container>
+                  <unitdate>1986 August 25</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref155" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762042" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762042" type="Folder">52</container>
+                  <unitdate>1986 August 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref156" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762043" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762043" type="Folder">53</container>
+                  <unitdate>1986 August 27</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref157" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762044" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762044" type="Folder">54</container>
+                  <unitdate>1986 August 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref158" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762045" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762045" type="Folder">55</container>
+                  <unitdate>1986 August 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref159" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762046" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762046" type="Folder">56</container>
+                  <unitdate>1986 September 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref160" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762047" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762047" type="Folder">57</container>
+                  <unitdate>1986 September 4</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref161" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762048" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762048" type="Folder">58</container>
+                  <unitdate>1986 September 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref162" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762049" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762049" type="Folder">59</container>
+                  <unitdate>1986 September 8</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref163" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762050" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762050" type="Folder">60</container>
+                  <unitdate>1986 September 9</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref164" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762051" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762051" type="Folder">61</container>
+                  <unitdate>1986 September 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref165" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762052" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762052" type="Folder">62</container>
+                  <unitdate>1986 September 11</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref166" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762053" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762053" type="Folder">63</container>
+                  <unitdate>1986 September 15</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref167" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762054" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762054" type="Folder">64</container>
+                  <unitdate>1986 September 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref168" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762055" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762055" type="Folder">65</container>
+                  <unitdate>1986 September 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref169" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762056" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762056" type="Folder">66</container>
+                  <unitdate>1986 September 22</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref170" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762057" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762057" type="Folder">67</container>
+                  <unitdate>1986 September 23</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref171" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762058" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762058" type="Folder">68</container>
+                  <unitdate>1986 September 24</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref172" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762059" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762059" type="Folder">69</container>
+                  <unitdate>1986 September 25</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref173" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762060" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762060" type="Folder">70</container>
+                  <unitdate>1986 September 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref174" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762061" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762061" type="Folder">71</container>
+                  <unitdate>1986 September 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref175" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762062" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762062" type="Folder">72</container>
+                  <unitdate>1986 September 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref176" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762063" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762063" type="Folder">73</container>
+                  <unitdate>1986 October 1</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref177" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762064" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762064" type="Folder">74</container>
+                  <unitdate>1986 October 2</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref178" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762065" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762065" type="Folder">75</container>
+                  <unitdate>1986 October 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref179" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762066" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762066" type="Folder">76</container>
+                  <unitdate>1986 October 7</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref180" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762067" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762067" type="Folder">77</container>
+                  <unitdate>1986 October 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref181" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762068" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762068" type="Folder">78</container>
+                  <unitdate>1986 October 28</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref182" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762069" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762069" type="Folder">79</container>
+                  <unitdate>1986 October 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref183" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762070" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762070" type="Folder">80</container>
+                  <unitdate>1986 October 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref184" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7762071" type="Box" label="Graphic materials">3</container>
+                  <container parent="cid7762071" type="Folder">81</container>
+                  <unitdate>1986 November 3</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref185" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763001" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763001" type="Folder">1</container>
+                  <unitdate>1986 November 6</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref186" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763002" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763002" type="Folder">2</container>
+                  <unitdate>1986 November 10</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref187" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763003" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763003" type="Folder">3</container>
+                  <unitdate>1986 November 12</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref188" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763004" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763004" type="Folder">4</container>
+                  <unitdate>1986 November 13</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref189" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763005" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763005" type="Folder">5</container>
+                  <unitdate>1986 November 14</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref190" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763006" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763006" type="Folder">6</container>
+                  <unitdate>1986 November 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref191" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763007" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763007" type="Folder">7</container>
+                  <unitdate>1986 November 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref192" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763008" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763008" type="Folder">8</container>
+                  <unitdate>1986 November 21</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref193" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763009" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763009" type="Folder">9</container>
+                  <unitdate>1986 November 26</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref194" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763010" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763010" type="Folder">10</container>
+                  <unitdate>1986 December 1</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref195" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763011" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763011" type="Folder">11</container>
+                  <unitdate>1986 December 2</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref196" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763012" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763012" type="Folder">12</container>
+                  <unitdate>1986 December 5</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref197" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763013" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763013" type="Folder">13</container>
+                  <unitdate>1986 December 16</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref198" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763014" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763014" type="Folder">14</container>
+                  <unitdate>1986 December 17</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref199" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763015" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763015" type="Folder">15</container>
+                  <unitdate>1986 December 18</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref200" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763016" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763016" type="Folder">16</container>
+                  <unitdate>1986 December 19</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref201" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763017" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763017" type="Folder">17</container>
+                  <unitdate>1986 December 29</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref202" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763018" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763018" type="Folder">18</container>
+                  <unitdate>1986 December 30</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref203" level="file">
+               <did>
+                  <unittitle>Slides and Photographs,</unittitle>
+                  <container id="cid7763019" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763019" type="Folder">19</container>
+                  <unitdate>1986 December 31</unitdate>
+               </did>
+            </c02>
+         </c01>
+         <c01 id="ref204" level="series">
+            <did>
+               <unittitle>Final Stages of Construction Proofs</unittitle>
+               <unitdate>1987 April - 1987 December</unitdate>
+            </did>
+            <scopecontent id="ref217">
+               <head>Scope and Contents Note</head>
+               <p>Photograph proofs of the final stages of construction. Photo proofs are collated sequentially.</p>
+            </scopecontent>
+            <c02 id="ref205" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763025" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763025" type="Folder">1</container>
+                  <unitdate>1987 April</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref206" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763026" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763026" type="Folder">2</container>
+                  <unitdate>1987 May</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref207" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763027" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763027" type="Folder">3</container>
+                  <unitdate>1987 June</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref208" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763028" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763028" type="Folder">4</container>
+                  <unitdate>1987 July</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref209" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763029" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763029" type="Folder">5</container>
+                  <unitdate>1987 August</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref210" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763030" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763030" type="Folder">6</container>
+                  <unitdate>1987 September</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref211" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763031" type="Box" label="Graphic materials">4</container>
+                  <container parent="cid7763031" type="Folder">7</container>
+                  <unitdate>1987 October</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref212" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763032" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763032" type="Folder">8</container>
+                  <unitdate>1987 November</unitdate>
+               </did>
+            </c02>
+            <c02 id="ref213" level="file">
+               <did>
+                  <unittitle>Photograph Proofs,</unittitle>
+                  <container id="cid7763033" type="Box" label="Graphic materials">5</container>
+                  <container parent="cid7763033" type="Folder">9</container>
+                  <unitdate>1987 December</unitdate>
+               </did>
+            </c02>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
