@@ -6,7 +6,12 @@ UTK ArchivesSpace Docker Dev
 About
 -----
 
-Sets up a basic ArchivesSpace environment and copies in our local plugin for dev.
+A development environment for UTK's ArchivesSpace instance:
+
+- Installs our local plugin
+- Adds a few our our EADs for testing
+- Configures application based on a config file similar to the one in production
+
 
 **Note**: This is intended for testing purposes only.
 
