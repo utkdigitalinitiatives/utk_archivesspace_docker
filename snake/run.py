@@ -5,6 +5,7 @@ import sys
 from requests.exceptions import ConnectionError
 import os
 from pathlib import Path
+from data import accessions
 
 
 class ArchiveSpace:
@@ -16,7 +17,7 @@ class ArchiveSpace:
         self.__test_if_service_up()
         self.session = self.__authenticate()
         self.headers = {'X-ArchivesSpace-Session': self.session}
-        self.records = self.add_sample_resources('data')
+        self.records = self.add_sample_resources('data/eads')
         self.__test_if_data_exists()
 
     def __authenticate(self):
@@ -95,7 +96,8 @@ class ArchiveSpace:
             print("Sleeping 10 seconds.")
             time.sleep(10)
             self.create_repository()
-        return self.create_import_jobs()
+        self.create_import_jobs()
+        return self.__add_sample_accessions()
 
     @staticmethod
     def add_sample_resources(path):
@@ -109,7 +111,7 @@ class ArchiveSpace:
 
     def create_records(self):
         for file in self.records:
-            with open(f'data/{file}', 'r') as record:
+            with open(f'data/eads/{file}', 'r') as record:
                 text = record.read()
                 r = requests.post(url=f'{self.base_url}:8089/repositories/2/resources',
                                   headers=self.headers,
@@ -120,7 +122,7 @@ class ArchiveSpace:
     def create_import_jobs(self):
         print(f'Creating jobs to add {self.records}')
         for file in self.records:
-            current_file = os.path.abspath(f'data/{file}')
+            current_file = os.path.abspath(f'data/eads/{file}')
             filename = [Path(current_file).stem]
             test = [("files[]", open(current_file, "rb"))]
             print(current_file)
@@ -138,6 +140,15 @@ class ArchiveSpace:
                               files=test
                               )
             print(f'{r.status_code} for {file}. \n\t {r.json()}')
+        return
+
+    def __add_sample_accessions(self):
+        for accession in accessions.accessions:
+            r = requests.post(url=f'{self.base_url}:8089/repositories/2/accessions',
+                              headers=self.headers,
+                              data=json.dumps(accession)
+                              )
+            print(f'{r.status_code}: {r.json()}')
         return
 
 
