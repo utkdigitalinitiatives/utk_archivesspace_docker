@@ -8,5 +8,5 @@ COPY Pipfile.lock .
 COPY data data
 RUN pwd \
     && pip install requests \
-    && ls -la
+    && pip install ArchivesSnake
 CMD ["python", "-u", "./run.py"]
