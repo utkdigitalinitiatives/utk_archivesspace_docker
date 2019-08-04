@@ -9,7 +9,10 @@ from data import accessions
 
 
 class ArchiveSpace:
-    def __init__(self, url: str = 'http://utkarchivesspacedocker_archivesspace_1', user: str = 'admin', password: str = 'admin'):
+    def __init__(self,
+                 url: str = 'http://utkarchivesspacedocker_archivesspace_1',
+                 user: str = 'admin',
+                 password: str = 'admin'):
         self.base_url = url
         self.username = user
         self.password = password
@@ -42,7 +45,6 @@ class ArchiveSpace:
         except:
             print("Unexpected error:", sys.exc_info()[0])
             return self.__test_if_service_up()
-
 
     def __test_if_repositories_were_created(self):
         r = requests.get(url=f'{self.base_url}:8089/repositories', headers=self.headers)
@@ -136,7 +138,7 @@ class ArchiveSpace:
             })
             r = requests.post(url=f'{self.base_url}:8089/repositories/2/jobs_with_files',
                               headers=self.headers,
-                              params= {"job": job},
+                              params={"job": job},
                               files=test
                               )
             print(f'{r.status_code} for {file}. \n\t {r.json()}')
