@@ -503,10 +503,10 @@ AppConfig[:pui_hide][:classifications] = true
 #AppConfig[:pui_hide][:resource_badge] = false
 #AppConfig[:pui_hide][:record_badge] = true # hide by default
 #AppConfig[:pui_hide][:digital_object_badge] = false
-#AppConfig[:pui_hide][:accession_badge] = false
+AppConfig[:pui_hide][:accession_badge] = true
 #AppConfig[:pui_hide][:subject_badge] = false
-#AppConfig[:pui_hide][:agent_badge] = false
-#AppConfig[:pui_hide][:classification_badge] = false
+AppConfig[:pui_hide][:agent_badge] = true
+AppConfig[:pui_hide][:classification_badge] = true
 #AppConfig[:pui_hide][:counts] = false
 ## The following determines globally whether the 'container inventory' navigation tab/pill is hidden on resource/collection page
 #AppConfig[:pui_hide][:container_inventory] = false
