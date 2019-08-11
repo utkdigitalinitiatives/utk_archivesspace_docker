@@ -65,6 +65,10 @@
 #
 #AppConfig[:indexer_log] = "default"
 #AppConfig[:indexer_log_level] = "debug"
+AppConfig[:frontend_log_level] = "error"
+AppConfig[:backend_log_level] = "error"
+AppConfig[:pui_log_level] = "error"
+AppConfig[:indexer_log_level] = "error"
 #
 #
 ## Set to true to log all SQL statements.  Note that this will have a performance
