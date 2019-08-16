@@ -10,7 +10,7 @@ from data import accessions
 
 class ArchiveSpace:
     def __init__(self,
-                 url: str = 'http://utkarchivesspacedocker_archivesspace_1',
+                 url: str = 'http://archivesspace',
                  user: str = 'admin',
                  password: str = 'admin'):
         self.base_url = url

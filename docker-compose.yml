@@ -11,8 +11,10 @@ services:
       - 8081:8081
       - 8089:8089
       - 8090:8090
+    container_name: archivesspace
   snake:
     build:
       context: ./snake
     depends_on:
       - archivesspace
+    container_name: archivessnake
