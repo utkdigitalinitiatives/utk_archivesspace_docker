@@ -42,6 +42,8 @@ Interfaces
 
 `Staff Interface <http://0.0.0.0:8080/>`_
 
+`OAI-PMH Interface <http://localhost:8082/sample>`_
+
 `Solr <http://0.0.0.0:8090/>`_
 
 `REST API <http://0.0.0.0:8089/>`_
