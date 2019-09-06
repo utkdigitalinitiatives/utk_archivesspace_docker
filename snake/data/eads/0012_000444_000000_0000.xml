@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead>
+   <eadheader findaidstatus="Completed" repositoryencoding="iso15511"
+              countryencoding="iso3166-1"
+              dateencoding="iso8601"
+              langencoding="iso639-2b">
+      <eadid>0012_000444_000000_0000</eadid>
+      <filedesc>
+         <titlestmt>
+            <titleproper>Finding Aid for the Norbert F. Riedl Papers
+                    <num>MS.1168</num>
+            </titleproper>
+            <author>Finding aid prepared by Elizabeth Dunham, October 19, 2006.</author>
+         </titlestmt>
+         <publicationstmt>
+            <publisher>University of Tennessee Libraries, Special Collections</publisher>
+            <address>
+               <addressline>Knoxville</addressline>
+            </address>
+         </publicationstmt>
+      </filedesc>
+      <profiledesc>
+         <creation>This finding aid was produced using the Archivists' Toolkit
+                <date>2018-11-19T10:54-0500</date>
+         </creation>
+         <langusage>English</langusage>
+         <descrules>Describing Archives: A Content Standard</descrules>
+      </profiledesc>
+   </eadheader>
+   <archdesc level="collection">
+      <did>
+         <unittitle>Norbert F. Riedl Papers</unittitle>
+         <unitid>MS.1168</unitid>
+         <repository>
+            <corpname>University of Tennessee Libraries, Special Collections</corpname>
+         </repository>
+         <langmaterial>
+            <language langcode="eng"/>
+         </langmaterial>
+         <physdesc>
+            <extent>0.5 Linear feet</extent>
+         </physdesc>
+         <unitdate>1960s-1970s</unitdate>
+         <abstract id="ref2" label="Abstract">This collection houses papers pertaining to Norbert Riedl's study of folklore at the University of Tennessee.</abstract>
+         <origination label="creator">
+            <persname rules="Anglo-American_Cataloguing_Rules__2nd_ed."
+                      source="Library_of_Congress_Name_Authority_File">Riedl, Norbert F.</persname>
+         </origination>
+      </did>
+      <accessrestrict>
+         <head>Conditions Governing Access</head>
+         <p>Collections are stored offsite, and a minimum of 24 hours is needed to retrieve these items for use. Researchers interested in consulting any of the collections are advised to contact Special Collections at special@utk.edu.</p>
+      </accessrestrict>
+      <userestrict>
+         <head>Conditions Governing Use</head>
+         <p>The copyright interests in this collection remain with the creator. For more information, contact the Special Collections Library.</p>
+      </userestrict>
+      <prefercite id="ref5">
+         <head>Preferred Citation</head>
+         <p>[Identification of Item], Norbert F. Riedl Papers, MS.1168. University of Tennessee Libraries, Knoxville, Special Collections.</p>
+      </prefercite>
+      <acqinfo id="ref6">
+         <head>Acquisition Note</head>
+         <p>This collection is property of the University of Tennessee Libraries, Knoxville, Special Collections.</p>
+      </acqinfo>
+      <bioghist id="ref7">
+         <head>Biographical/Historical Note</head>
+         <p>Norbert Franz Riedl was born in Eisenstadt, Austria on February 16, 1930. While studying at the University of Vienna, he spent a year at the University of New Mexico as a Smith-Mundt exchange student (1951-1952). It was during this visit that Riedl formed his lifelong attachment to the United States. He graduated from the University of Vienna with his PhD in 1954, and returned to the United States with his wife, Joan (an American who Riedl met while both were studying in Vienna), in 1956. The couple settled in Princeton, New Jersey, where Riedl worked for the Educational Testing Service (ETS). Six years later, Riedl accepted a position in the University of Tennessee's Department of Anthropology studying folklore. He remained at UT as a well-respected professor until his untimely death on March 25, 1975.</p>
+      </bioghist>
+      <scopecontent id="ref8">
+         <head>Scope and Contents Note</head>
+         <p>This collection houses papers pertaining to Norbert Riedl's study of folklore at the University of Tennessee.</p>
+      </scopecontent>
+      <arrangement id="ref9">
+         <head>Arrangement</head>
+         <p>Collection consists of one box.</p>
+      </arrangement>
+      <controlaccess>
+         <head>Subjects</head>
+         <genreform source="lcsh">Folklore -- Great Smoky Mountains (N.C. and Tenn.).</genreform>
+         <geogname source="lcsh">Great Smoky Mountains (N.C. and Tenn.) -- Social life and customs.</geogname>
+      </controlaccess>
+      <dsc>
+         <head>Container List</head>
+         <c01 id="ref10" level="file">
+            <did>
+               <unittitle>Architecture: The Carmichael Inn</unittitle>
+               <container id="cid4774939" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774939" type="Folder">1</container>
+            </did>
+         </c01>
+         <c01 id="ref11" level="file">
+            <did>
+               <unittitle>Architecture: The Exchange Place-A Restoration</unittitle>
+               <container id="cid4774938" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774938" type="Folder">2</container>
+            </did>
+         </c01>
+         <c01 id="ref12" level="file">
+            <did>
+               <unittitle>Architecture: The Old Netherland Inn-History, Architecture, and Restoration</unittitle>
+               <container id="cid4774937" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774937" type="Folder">3</container>
+            </did>
+         </c01>
+         <c01 id="ref13" level="file">
+            <did>
+               <unittitle>Customs-Death and Burial: Black Burial Custom in Southern Appalachia</unittitle>
+               <container id="cid4774936" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774936" type="Folder">4</container>
+            </did>
+         </c01>
+         <c01 id="ref14" level="file">
+            <did>
+               <unittitle>Medicines and Remedies: The Folk Medical Use of Panaxin the Southern Appalachia</unittitle>
+               <container id="cid4774935" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774935" type="Folder">5</container>
+            </did>
+         </c01>
+         <c01 id="ref15" level="file">
+            <did>
+               <unittitle>Medicines and Remedies: Oral History with Dr. Idol</unittitle>
+               <container id="cid4774934" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774934" type="Folder">6</container>
+            </did>
+         </c01>
+         <c01 id="ref16" level="file">
+            <did>
+               <unittitle>Moonshine: Moonshining in Appalachia</unittitle>
+               <container id="cid4774933" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774933" type="Folder">7</container>
+            </did>
+         </c01>
+         <c01 id="ref17" level="file">
+            <did>
+               <unittitle>Pottery: The Life of a Potter</unittitle>
+               <container id="cid4774932" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774932" type="Folder">8</container>
+            </did>
+         </c01>
+         <c01 id="ref18" level="file">
+            <did>
+               <unittitle>Quilting: Quilt Collection</unittitle>
+               <container id="cid4774931" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774931" type="Folder">9</container>
+            </did>
+         </c01>
+         <c01 id="ref19" level="file">
+            <did>
+               <unittitle>Surveys-General Folklore: The Role of Verbal Forms of Folklore in the Southeast United States in Childrearing Practices</unittitle>
+               <container id="cid4774930" type="Box" label="Mixed Materials">1</container>
+               <container parent="cid4774930" type="Folder">10</container>
+            </did>
+         </c01>
+      </dsc>
+   </archdesc>
+</ead>
